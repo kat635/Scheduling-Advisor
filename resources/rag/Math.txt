@@ -1,0 +1,304 @@
+MATH 113 - Explorations with Data: An Introduction to Data Science and Analytics
+This course will provide an introduction to the main ideas of data science and data analytics and their use in a variety of applications. Students will learn how to ask good questions about data and how to present results of data analysis clearly when writing or speaking. Students will be introduced to methods of summarizing and displaying data using spreadsheet-based analytical tools. The course will also include discussion of ethical issues in data collection, storage and analysis. Students will become familiar with career options involving data science and opportunities for further study.
+
+Credits: 3
+Terms Offered: Spring
+Attributes: Mathematics (MA)
+
+MATH 115 - Introductory Statistics
+The course introduces statistical inference (including confidence interval estimation) for one and two variables using simulation-based methods and then shows how traditional theory-based methods like t-tests, chi-square tests, one-way analysis of variance can also be used. Basic descriptive statistical techniques are reviewed throughout the course and other descriptive techniques such as simple linear regression are introduced. Throughout the course there is an emphasis on conceptual understanding, the entire statistical investigation process, and active learning using group activities and projects, as well as reading and critiquing published research. Cannot receive credit for both Math 115 and MATH 219.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Attributes: Mathematics (MA)
+
+MATH 130 - Foundations of Calculus
+A foundational course for Calculus. Topics include polynomial and rational functions (including conic sections), exponential and logarithmic functions, trigonometric and polar functions, functions involving parameters.
+
+Credits: 4
+Terms Offered: Fall, Spring
+Attributes: Mathematics (MA)
+
+MATH 131 - Calculus I
+Topics include functions, limits, continuity, differentiation, integration, and applications of the derivative and integral. ACT Math score of 25+ is highly recommended.
+
+Credits: 4
+Terms Offered: Fall, Spring
+Attributes: Mathematics (MA)
+
+MATH 132 - Calculus II
+Topics covered include techniques of integration, applications of the integration, sequences, infinite series, power series, introduction to differential equations, and polar coordinates.
+
+Credits: 4
+Terms Offered: Fall, Spring
+Attributes: Mathematics (MA)
+Prerequisites: MATH 131 with a grade of C- or better
+
+MATH 160 - Introduction to Discrete Mathematics
+An introduction to a variety of discrete mathematics topics including logic, sets, functions, sequences, summations, recurrence relations, basic number theory, mathematical induction, recursion/recursive definitions, counting, graph theory, and algorithms and algorithm complexity. Examples of real-world applications will be emphasized.
+
+Credits: 3
+Terms Offered: Spring
+Attributes: Mathematics (MA)
+
+MATH 195 - Studies in Mathematics
+A course offered in response to student interest and need. Covers mathematical topics not included in regular courses.Prerequisites: Permission of instructor
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+MATH 215 - Intermediate Statistics
+This course provides a survey of statistical methods students would expect to see utilized across disciplines in peer reviewed research. Students focus on potential sources of variability, study design, and analyses of studies where the research questions involve more than two variables simultaneously. Topics include multiple regression, non-parametric methods, generalized linear models, and multivariate statistical models. The course culminates in a final project where students design their own study, collect & analyze data using statistical software, and present their results. Cannot receive credit for both MATH 215 and MATH 219. MATH 115 or previous statistics experience is highly recommended prior to this course.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Attributes: Mathematics (MA)
+
+MATH 219 - Statistical Methods
+This course provides a survey of statistical methods students would expect to see utilized across disciplines in peer reviewed research. Topics include descriptive statistics, data visualization, statistical inference for one or more variables, parameter estimation using confidence intervals, understanding sources of variability, and study design. Students are introduced to both simulation-based and traditional theory-based inference. There is an emphasis on conceptual understanding and active learning using group activities and projects. The statistical methods covered in this course are used in peer-reviewed research across a variety of disciplines, and students will be introduced to statistical software that is widely-used in these fields. Students cannot receive credit for both MATH 115/MATH 215 and MATH 219.
+
+Credits: 4
+Terms Offered: Fall, Spring
+Attributes: Mathematics (MA)
+
+MATH 221 - Introduction to Mathematics for Elementary Educators
+The first in a three-course sequence in which prospective elementary (Pre-Kindergarten to 6th Grade) teachers explore the fundamental aspects of the mathematics they will be expected to teach. Emphasis is on developing a deep conceptual understanding of the specialized mathematical content knowledge and the methods to communicate mathematical concepts effectively to children expected of well-prepared beginning teachers. Topics: How children learn mathematics, Number Concepts, and Properties of Shapes and Spatial Relationships. Proficiency in basic mathematical skills is assumed.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Attributes: Mathematics (MA)
+Prerequisites: EDUC 225 with a grade of C+ or better
+
+MATH 223 - Mathematics for Elementary Educators
+The second course in a three-course sequence in which prospective elementary teachers explore the fundamental aspects of the mathematics they will be expected to teach. Emphasis is on developing a deep conceptual understanding of the specialized mathematical content knowledge and the methods to communicate mathematical concepts effectively to children expected of well-prepared beginning teachers. Topics: Mathematical Development in Children, Additive Reasoning, Multiplicative Reasoning, and Early Fraction Concepts.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: MATH 221 with a grade of C+ or better
+
+MATH 233 - Calculus III: Multivariable and Vector Calculus
+Multivariable and vector calculus including vectors, vector geometry, and vector operations, differentiation, multiple integration, and calculus on vector fields including Green’s, Stokes, and the Divergence Theorem.
+
+Credits: 4
+Terms Offered: Fall, Spring
+Attributes: Mathematics (MA)
+Prerequisites: MATH 132 with a grade of C- or better
+
+MATH 241 - Teaching Algebra in Secondary Schools
+This course prepares mathematics teacher candidates to teach algebra to secondary students. Candidates will develop curriculum materials focused on algebra that will engage diverse secondary students with a wide range of abilities in mathematical thinking, communication, and problem-solving consistent with national and state standards. Activity and laboratory approaches for teaching mathematics will be emphasized with topics such as linear systems, functions, sequences and series, proportional relationships, and other algebraic topics. Candidates will learn to plan units, lessons, and instruction to demonstrate content competency in a range of mathematics content.
+
+Credits: 3
+Terms Offered: Spring, Even Years
+Prerequisites: EDUC 275 with a grade of C+ or better, MATH 243 with a grade of C- or better 
+
+MATH 243 - Linear Algebra and Differential Equations
+Introduces ordinary differential equations, systems of linear equations, matrices, determinants, vector spaces, linear transformations, eigenvalues and eigenvectors, and linear systems of differential equations.
+
+Credits: 4
+Terms Offered: Fall, Spring
+Attributes: Mathematics (MA)
+Prerequisites: MATH 132 with a grade of C- or better
+
+MATH 245 - Linear Algebra and Applications
+The study of linear algebra including vectors, matrices, solutions of linear systems, linear transformations, eigenvalues and eigenvectors. Applications to areas such as data science will be included.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Attributes: Mathematics (MA)
+
+MATH 251 - Teaching Geometry in Secondary Schools
+This course prepares mathematics teacher candidates to teach geometry to secondary students. Candidates will develop curriculum materials focused on algebra that will engage diverse secondary students with a wide range of abilities in mathematical thinking, communication, and problem-solving consistent with national and state standards. Activity and laboratory approaches for teaching mathematics are emphasized with topics such as proofs, polygons, transformations, trigonometry, and other geometric topics. Candidates will learn to plan units, lessons, and instruction to demonstrate content competency in a range of mathematics content.
+
+Credits: 3
+Terms Offered: Spring, Odd Years
+Prerequisites: EDUC 275 with a grade of C+ or better, MATH 351 with a grade of C- or better
+
+MATH 270 - Differential Equations
+The study of ordinary differential equations and systems of differential equations as well as applications and modeling. Introduction to existence and uniqueness theorems.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: MATH 132 with a grade of C- or better, MATH 245 with a grade of C- or better
+
+MATH 280 - Bridge to Higher Mathematics: An Introduction to Mathematical Proof
+An introduction to the understanding and creation of rigorous mathematical argument and proof. Topics include properties of the integers, real numbers, and integers modulo n. Additional topics may include mathematical induction, elementary set theory, elementary number theory, recursion formulas, counting techniques, equivalence relations, partitions and cardinality of sets. There will be a heavy emphasis on writing, in particular the writing of mathematical arguments and proofs.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: MATH 132
+
+MATH 295 - Studies in Mathematics
+A course offered in response to student interest and need. Covers mathematical topics not included in regular courses.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+MATH 308 - Mathematical Teaching Practices for Elementary Educators
+The final course in a three-course sequence in which prospective elementary teachers explore the fundamental aspects of the mathematics they will be expected to teach. Emphasis is the development of content specific teaching practices, techniques and dispositions that support sound mathematical teaching. Pre-service teachers learn to value and encourage the development of children’s strategies and invented algorithms within the context of mathematical operations with fractions. Students will engage in practice-based explorations of effective teaching and core-teaching practices in mathematics using materials taken from real classrooms.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: MATH 223 with a grade of C+ or better
+
+MATH 313 - Statistics for Data Science
+Recent advances in Data Science have resulted in the introduction of many new methods in Applied Statistics. This course focuses on the application of some of these new methods in two of the main branches of Data Science - supervised and unsupervised learning.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: MATH 215 or MATH 219 with a grade of C- or better
+
+MATH 321 - History of Mathematics
+This course is designed to give mathematics students an opportunity to study the various periods of mathematical development. Attention will be given to the early Egyptian-Babylonian period, the geometry of Greek mathematicians, the Hindu and Arabian contribution, the evolvement of analytical geometry since Descartes, the development of calculus by Newton and Leibniz, and non-Euclidean geometry. Some attention will be given to the methods and symbolisms used in problem solving during various periods of time.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: MATH 132 with a grade of C- or better
+
+MATH 323 - Teaching Mathematics in Secondary Schools
+Methods of teaching mathematics with emphasis on varied approaches, classroom materials, curriculum changes, and trends in mathematics education.
+
+Credits: 3
+Terms Offered: Fall, Even Years
+Prerequisites: MATH 241 with a grade of C+ or better, MATH 251 with a grade of C+ or better
+Corequisites: MATH 324 
+
+MATH 324 - Teaching Mathematics in Secondary Schools Clinical Experience
+This is a clinical experience that must be taken concurrently with MATH 323.
+
+Credits: 1
+Terms Offered: Fall, Even Years
+Prerequisites: MATH 241 with a grade of C+ or better
+Corequisites: MATH 323 
+
+MATH 331 - Real Analysis I
+Study of the real number system, sequences, functions, continuity, uniform continuity, differentiation, and theory of integration.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: MATH 233 with a grade of C- or better, MATH 280 with a grade of C- or better
+
+MATH 332 - Real Analysis II
+A continuation of MATH 331 including functions of several variables, series, uniform convergence, Fourier Series.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: MATH 331
+
+MATH 334 - Complex Analysis
+The study of the algebra and geometry of complex numbers, analytic functions, complex integration, series, conformal mapping.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: MATH 132 with a grade of C- or better
+
+MATH 341 - Algebraic Structures I
+An introduction to algebraic systems including a study of groups, rings, and fields.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: MATH 243 with a grade of C- or better, MATH 280 with a grade of C- or better
+
+MATH 342 - Algebraic Structures II
+A continuation of MATH 341 including topics chosen from Galois theory, advanced linear algebra, group representation theory, and algebraic geometry.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: MATH 341
+
+MATH 345 - Advanced Linear Algebra
+The study of abstract vector spaces, matrices and linear transformations, determinants, canonical forms, the Hamilton-Cayley theorem, inner product spaces.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: MATH 243 with a grade of C- or better, MATH 280 with a grade of C- or better
+
+MATH 351 - College Geometry
+A modern approach to geometry for students with some background in calculus and an interest in secondary teaching. Attention is given to the role of axioms in elementary geometry and in the development of other geometries.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: MATH 280 with a grade of C- or better
+
+MATH 360 - Combinatorics and Graph Theory
+A study of topics in discrete mathematics. Topics may include enumeration, algorithms, graph theory, graph planarity, graph coloring, the pigeonhole principle, permutations and combinations, binomial coefficients, search algorithms, generating functions, and recurrence relations.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: MATH 280 with a grade of C- or better
+
+MATH 362 - Mathematical Statistics
+Emphasis on inferential statistics. Estimation, confidence intervals, testing of statistical hypotheses, regression and correlation, analysis of variance, control charts, non-parametric methods.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: MATH 365 with a grade of C- or better
+
+MATH 365 - Introduction to Probability
+This course provides an introduction to both discrete and continuous probability. Topics include conditional probabilities and independence, combinations and permutations, Bayes’ theorem, popular discrete and continuous distributions, bivariate and multivariate distributions, covariance and correlation, moment generating functions. This course serves as a general introduction to probability for all students interested in applied mathematics.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: MATH 132 with a grade of C- or better
+
+MATH 366 - Probability for Actuaries
+This course is a continuation of MATH 365 and serves as an opportunity to prepare interested students for the Society of Actuaries’ Probability Exam (Exam P) as well as delve deeper into the Introduction to Probability course.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: MATH 365 
+
+MATH 370 - Advanced Differential Equations
+Advanced topics in ordinary differential equations including series solutions and orthonormal sets of solutions. Introduction to partial differential equations including the heat equation, the wave equation and the potential equation. Boundary value problems and Fourier Series will also be covered.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: MATH 243 with a grade of C- or better
+
+MATH 372 - Numerical Analysis
+Topics may include the study of the source and analysis of computational error, finding the solution of an equation, systems of linear equations, interpolation and approximation, numerical integration and numerical solutions to differential equations.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: MATH 233 with a grade of C- or better, MATH 243 with a grade of C- or better
+
+MATH 395 - Special Studies in Mathematics
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+
+MATH 490 - Research in Mathematics
+Course provides opportunity for a junior or senior mathematics major to engage in a research project in an area of mathematics in which the student has special interest.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Prerequisites: Permission of instructor
+
+MATH 490R - Research in Mathematics
+Course provides opportunity for a junior or senior mathematics major to engage in a research project in an area of mathematics in which the student has special interest.
+
+Credits: 1-4
+Terms Offered: Fall, Spring
+
+MATH 493 - Independent Study in Mathematics
+Course provides opportunity for a junior or senior mathematics major to engage in an independent study project in an area of mathematics in which the student has special interest.
+
+Credits: 1-3
+Terms Offered: Fall, Spring
+Prerequisites: Permission of instructor
+
+MATH 495 - Advanced Studies in Mathematics
+Offered as needed to cover topics not usually included in the other mathematics courses. A student may enroll for either or both semesters.
+
+Credits: 1-3
+Terms Offered: Fall, Spring
+Prerequisites: Permission of chairperson
+
+MATH 499 - Mathematics Internship
+An opportunity to gain practical experience in the work place. Requires formal application, permission of the department chairperson, and permission of the Boerigter Center for Calling and Career.
+
+Credits: 1-6
+Terms Offered: As Needed
+Prerequisites: Permission of instructor

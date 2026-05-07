@@ -1,0 +1,229 @@
+{
+  "program_id": "anchor_plan",
+  "school": "Hope College",
+  "program_type": "general_education",
+
+  "total_credits": {
+    "min": 47,
+    "max": 57
+  },
+
+  "requirements": [
+    {
+      "id": "first_year_seminar",
+      "type": "required",
+      "name": "First Year Seminar",
+      "courses": [
+        {
+          "code": "IDS 100",
+          "credits": 3,
+          "tags": ["seminar", "first_year"]
+        }
+      ]
+    },
+    {
+      "id": "expository_writing",
+      "type": "required",
+      "name": "Expository Writing",
+      "courses": [
+        {
+          "code": "ENGL 113",
+          "credits": 3,
+          "tags": ["writing", "core"]
+        }
+      ]
+    },
+    {
+      "id": "health_dynamics",
+      "type": "required",
+      "name": "Health Dynamics",
+      "courses": [
+        {
+          "code": "KIN 140",
+          "credits": 2,
+          "tags": ["health"]
+        }
+      ]
+    },
+    {
+      "id": "math_science",
+      "type": "category",
+      "name": "Math/Science",
+      "credit_requirement": {
+        "total": 10
+      },
+      "rules": [
+        {
+          "id": "math_science_lab",
+          "type": "at_least",
+          "count": 1,
+          "filter": {
+            "tag": "lab_science"
+          }
+        },
+        {
+          "id": "math_science_math",
+          "type": "at_least",
+          "count": 1,
+          "filter": {
+            "tag": "mathematics"
+          }
+        }
+      ]
+    },
+    {
+      "id": "religion",
+      "type": "category",
+      "name": "Religion",
+      "credit_requirement": {
+        "total": 6
+      },
+      "course_patterns": [
+        {
+          "subject": "REL",
+          "level": [100, 200]
+        }
+      ],
+      "rules": [
+        {
+          "id": "religion_ten",
+          "type": "at_least",
+          "count": 1,
+          "filter": {
+            "tag": "TEN"
+          }
+        }
+      ]
+    },
+    {
+      "id": "social_sciences",
+      "type": "category",
+      "name": "Social Sciences",
+      "credit_requirement": {
+        "total": 6
+      },
+      "rules": [
+        {
+          "id": "social_science_departments",
+          "type": "distinct_departments",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "arts_humanities",
+      "type": "category",
+      "name": "Arts and Humanities",
+      "subrequirements": [
+        {
+          "id": "arts_in_practice",
+          "name": "Arts in Practice",
+          "credit_requirement": { "min": 2, "max": 3 }
+        },
+        {
+          "id": "historical_perspectives",
+          "name": "Historical Perspectives",
+          "credit_requirement": { "total": 3 }
+        },
+        {
+          "id": "human_creative_perspectives",
+          "name": "Human Creative Perspectives",
+          "credit_requirement": { "total": 3 }
+        },
+        {
+          "id": "philosophical_perspectives",
+          "name": "Philosophical Perspectives",
+          "credit_requirement": { "total": 3 }
+        }
+      ],
+      "rules": [
+        {
+          "id": "perspectives_levels",
+          "type": "level_distribution",
+          "requirements": [
+            { "level": 100, "count": 1 },
+            { "level": 200, "count": 2 }
+          ]
+        },
+        {
+          "id": "perspectives_prereq",
+          "type": "prerequisite",
+          "conditions": [
+            {
+              "required_before": {
+                "level": 200,
+                "category": "perspectives"
+              },
+              "requires": [
+                { "course_code": "ENGL 113" },
+                { "level": 100, "category": "perspectives" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "human_diversities",
+      "type": "category",
+      "name": "Human Diversities",
+      "subrequirements": [
+        {
+          "id": "global_language",
+          "name": "Global Language",
+          "credit_requirement": { "min": 3, "max": 6 }
+        },
+        {
+          "id": "us_diversities",
+          "name": "US Diversities",
+          "course_requirement": { "count": 1 }
+        },
+        {
+          "id": "global_perspectives",
+          "name": "Global Perspectives",
+          "course_requirement": { "count": 1 }
+        }
+      ]
+    },
+    {
+      "id": "senior_seminar",
+      "type": "required",
+      "name": "Senior Seminar",
+      "selection": {
+        "type": "choose_one",
+        "options": [
+          {
+            "code": "IDS 452",
+            "credits": 3,
+            "tags": ["senior", "seminar"]
+          },
+          {
+            "code": "IDS 492",
+            "credits": 3,
+            "tags": ["senior", "seminar"]
+          }
+        ]
+      }
+    }
+  ],
+
+  "global_rules": [
+    {
+      "id": "sequencing_note",
+      "type": "soft_constraint",
+      "description": "No strict sequencing except First Year Seminar, Senior Seminar, and Perspectives progression."
+    },
+    {
+      "id": "perspectives_global_prereq",
+      "type": "prerequisite",
+      "description": "ENGL 113 and a 100-level Perspectives course must be completed before 200-level Perspectives."
+    }
+  ],
+
+  "metadata": {
+    "version": "2.0",
+    "optimized_for": ["LLM_reasoning", "program_audit", "planning"]
+  },
+
+  "raw_text": "Below is the Anchor Plan curriculum at a glance..."
+}

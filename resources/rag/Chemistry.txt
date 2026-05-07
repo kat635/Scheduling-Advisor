@@ -1,0 +1,410 @@
+CHEM 101 - Introduction to Chemistry I
+This course presents selected chemical concepts at an introductory level for students who are not majoring in one of the sciences. Topics include atomic, ionic and molecular properties, bonding, balanced equations, acids and bases, solutions, simple organic structures, polymers, and nuclear chemistry. Laboratory activities support concepts presented in lecture. GEMS 100, or any calculus or statistics course is highly recommended prior to enrollment in or concurrently with this course. Cross-listed with GEMS 160.
+
+Credits: 3
+Terms Offered: As Needed
+Attributes: Natural Science with Lab (NSL)
+Corequisites: CHEM 101L 
+
+CHEM 101L - Introduction to Chemistry I Laboratory
+This is the laboratory that accompanies CHEM 101. Cross-listed with GEMS 160L.
+
+Credits: 1
+Terms Offered: As Needed
+Attributes: Natural Science with Lab (NSL)
+Corequisites: CHEM 101 
+
+CHEM 102A - Matter and Energy Pre-K through 3rd Grades
+Matter and Energy Pre-K to 3rd Grade is a half-semester course designed for those seeking Pre-K - 3rd grade elementary certification. It will help satisfy the natural science laboratory general education requirements for elementary education teacher candidates. The course will cover content outlined in the Michigan K-12 Science Standards as well as the Michigan Department of Education (MDE) Standards for the Preparation of Teachers of Early Childhood (Pre-K) and Lower Elementary in an integrated lecture/lab, inquiry-based format. This course will primarily include content from physical science and earth/space science. Teacher candidates will leave this course with the ability to make sound curricular choices for 3-Dimensional science learning, identify phenomena to engage students in content, and lead lessons that involve sense-making, arguing with evidence, developing and improving science investigations, analyzing results, and communicating conclusions. Teacher candidates will also experience MDE Core Teaching Practices that make science learning equitable and accessible for all.
+
+Credits: 2
+Terms Offered: Fall, Spring
+Prerequisites: Declared education major, EDUC 230 
+Corequisites: BIOL 102A 
+
+CHEM 102B - Matter and Energy 3rd through 6th Grades
+Matter and Energy 3rd through 6th Grades is a half-semester course designed for those seeking 3rd - 6th grade elementary certification. It will help satisfy the natural science laboratory general education requirements for elementary education teacher candidates. The course will cover content outlined in the Michigan K-12 Science Standards as well as the Michigan Department of Education (MDE) Standards for the Preparation of Teachers of Upper Elementary (3-6) in an integrated lecture/lab, inquiry-based format. This course will primarily include content from physical science and earth/space science. Teacher candidates will leave this course with the ability to make sound curricular choices for 3-Dimensional science learning, identify phenomena to engage students in content, and lead lessons that involve sense-making, arguing with evidence, developing and improving science investigations, analyzing results, and communicating conclusions. Teacher candidates will also experience MDE Core Teaching Practices that make science learning equitable and accessible for all.
+
+Credits: 2
+Terms Offered: Fall, Spring
+Prerequisites: Declared education major, CHEM 102A, EDUC 230 
+Corequisites: BIOL 102B 
+
+CHEM 103 - Introduction to Biological Chemistry
+This course will equip students with analytic and conceptual skills in general, organic, and biological chemistry as they relate to human health and health care. It is particularly focused on the basic chemistry needed by students seeking to enter professional programs in nursing and in a few allied health fields. This course is also suitable for the non-science major student as partial fulfillment of the mathematics and natural science general education requirement. This course does not count toward a major in biochemistry/molecular biology, biology, or chemistry. One year of high school chemistry is highly recommended prior to this course.
+
+Credits: 3
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: CHEM 103L 
+
+CHEM 103L - Introduction to Biological Chemistry Laboratory
+This is the laboratory that accompanies CHEM 103.
+
+Credits: 1
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: CHEM 103
+
+CHEM 122 - Day 1 Watershed Laboratory I
+This course begins with a three-day field and laboratory research experience in the Macatawa Watershed. Students will address issues of water quality that have plagued Lake Macatawa for over a century. The research findings are essential for understanding the impact of Project Clarity, a community-wide effort to clean up the waters of Lake Macatawa in a sustainable way. Teams will use standard and cutting edge experimental techniques, including next generation DNA sequencing of the watershed bacterial communities. The readings for the course focus on ecological issues facing the Great Lakes as well as the influence of microbial communities in our everyday lives; they highlight the importance of scientific research, public policy, and personal involvement in our communities.
+
+Credits: 1
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+
+CHEM 125 - General Chemistry I
+This is the first course in a two-semester sequence of introductory chemistry that is for all students who wish to major in science. Topics include stoichiometry, states of matter, atomic structure, periodicity, chemical bonding, and geometry of molecules. Students with strong high school preparation should consider CHEM 131.
+
+Credits: 3
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: CHEM 125D and CHEM 127 
+
+CHEM 125D - General Chemistry I Discussion
+This is the discussion that accompanies CHEM 125.
+
+Credits: 0
+Terms Offered: Fall
+Corequisites: CHEM 125 and CHEM 127
+
+CHEM 126 - General Chemistry II
+This is the second in a two-semester sequence of introductory chemistry that is for all students who wish to major in science. Topics include chemical energy, equilibria, kinetics, acids and bases, and chemical reaction types.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: CHEM 125 with a grade of C- or better
+Corequisites: CHEM 126D and CHEM 128 
+
+CHEM 126D - General Chemistry II Discussion
+This is the discussion that accompanies CHEM 126.
+
+Credits: 0
+Terms Offered: Spring
+Corequisites: CHEM 126 and CHEM 128
+
+CHEM 127 - General Chemistry Laboratory I
+This course provides an introduction to chemical techniques and laboratory procedures. Topics include qualitative analysis, gas laws, colorimetry, spectroscopy, colligative properties, computational modeling and computerized data collection and analysis. Laboratory, one 3-hour session per week (42 lab hours).
+
+Credits: 1
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: CHEM 125 and CHEM 125D
+
+CHEM 128 - General Chemistry Laboratory II
+This is a continuation of CHEM 127. Topics include calorimetry, volumetric and potentiometric titrations, reaction kinetics, determination of acid dissociation constants, and computerized data collection and analysis. Laboratory, one 3-hour session per week (42 lab hours).
+
+Credits: 1
+Terms Offered: Spring
+Prerequisites: CHEM 127 or CHEM 122 
+Corequisites: CHEM 126 and CHEM 126D 
+
+CHEM 131 - Accelerated General Chemistry
+This one-semester course covers all the general chemistry material normally covered in CHEM 125 and CHEM 126. This will include stoichiometry and inorganic reactions, periodicity and atomic structure, chemical bonding and molecular structure, chemical energy and thermodynamics, reaction kinetics, acids and bases and ionic equilibria. This course is designed for entering students that have a strong high school chemistry background and good algebra skills. Upon successful completion of this course, credit will be awarded for CHEM 125 as well. Two years of high school chemistry and ACT math score of 30+ (or SAT math score 670+) highly recommended.
+
+Credits: 3
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: CHEM 131D and CHEM 132 
+
+CHEM 131D - Accelerated General Chemistry Discussion
+This is the discussion that accompanies CHEM 131.
+
+Credits: 0
+Terms Offered: Fall
+Corequisites: CHEM 131 and CHEM 132
+
+CHEM 132 - Accelerated General Chemistry Lab
+This one-semester course covers all the general chemistry material normally covered in CHEM 127 and CHEM 128. This will include qualitative analysis, colorimetry and spectroscopy, colligative properties, titration, calorimetry, spectrophotometric determination of reaction kinetics, atomic absorption, and computerized data collection and analysis. This course is designed for entering students that have a strong high school chemistry background and good algebra skills. Upon successful completion of this course, credit will be awarded for CHEM 127 as well. Laboratory, one 3-hour session per week (42 lab hours).
+
+Credits: 1
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: CHEM 131 and CHEM 131D 
+
+CHEM 195 - Studies in Chemistry
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-3
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+CHEM 221 - Organic Chemistry I
+The basic principles of organic chemistry are introduced through studies of the structures and reactions of carbon compounds. The mechanistic treatment of aliphatic and aromatic chemistry is stressed.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: CHEM 126 or CHEM 131 with a grade of C- or better
+Corequisites: CHEM 221D 
+
+CHEM 221D - Organic Chemistry I Discussion
+This is the discussion that accompanies CHEM 221.
+
+Credits: 0
+Terms Offered: Fall
+Corequisites: CHEM 221
+
+CHEM 231 - Organic Chemistry II
+This is a continuation of CHEM 221 with emphasis on complex molecules, including those found in biological systems.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: CHEM 221 with a grade of C- or better
+Corequisites: CHEM 231D
+
+CHEM 231D - Organic Chemistry II Discussion
+This is the discussion that accompanies CHEM 231.
+
+Credits: 0
+Terms Offered: Spring
+Corequisites: CHEM 231
+
+CHEM 255 - Organic Chemistry Laboratory I
+This laboratory course stresses modern techniques for analyses of organic compounds and studies of the mechanisms of organic reactions. Infrared spectral analyses and chromatographic separations are introduced. Laboratory, one 5-hour session per week (84 lab hours).
+
+Credits: 2
+Terms Offered: Fall
+Prerequisites: CHEM 126 or CHEM 131 with a grade of C- or better
+Corequisites: CHEM 221, CHEM 221D, CHEM 255D 
+
+CHEM 255D - Organic Chemistry Laboratory I Discussion
+This is the discussion that accompanies CHEM 255.
+
+Credits: 0
+Terms Offered: Spring
+Corequisites: CHEM 255
+
+CHEM 256 - Organic Chemistry Laboratory II
+CHEM 256A, Organic Chemistry Laboratory II:
+This is a continuation of CHEM 255 with emphasis on organic structure determination and organic synthesis. Nuclear magnetic resonance spectroscopy and mass spectrometry are introduced. Laboratory, one 5-hour session per week. The 7 weeks of this laboratory (42 lab hours) comprise the 1 credit that is required for a chemistry major. Offered first half of the semester.
+
+ 
+
+CHEM 256B, Organic Chemistry Laboratory Independent Project:
+
+This 7-week (42 lab hours) section is an optional continuation of CHEM 256A to be taken in the same semester. In CHEM 256B, students will search the chemical literature, write a proposal, and execute an independent synthetic project. Students will grow in independence and autonomy and gain appreciation for authentic research while developing new skills such as reaction design, spectroscopic analysis, and the purification and characterization of mixtures. Offered last half of the semester.
+
+Credits: 1
+Terms Offered: Spring
+Prerequisites: CHEM 221, CHEM 255 
+Corequisites: CHEM 231, CHEM 231D, CHEM 256D 
+
+CHEM 256D - Organic Chemistry Laboratory II Discussion
+This is the discussion that accompanies CHEM 256.
+
+Credits: 0
+Terms Offered: Spring
+Corequisites: CHEM 256
+
+CHEM 295 - Studies in Chemistry
+A lecture and/or laboratory course in a chemical area of current interest.
+
+Credits: 1-3
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+CHEM 311 - Biochemistry I
+The biochemistry of proteins, carbohydrates, lipids, enzymes and coenzymes is discussed with an emphasis on the structure/function properties of biomolecules. BIOL 106 or equivalent is highly recommended prior to this course.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: CHEM 231 with a grade of C- or better
+
+CHEM 311D - Biochemistry I Discussion
+This is the optional discussion that accompanies CHEM 311.
+
+Credits: 0
+Terms Offered: Fall
+Corequisites: CHEM 311
+
+CHEM 314 - Biochemistry II
+The course is a continuation of CHEM 311 with emphasis on metabolic pathways (lipids, carbohydrates and proteins), regulatory processes, and transfer of genetic information.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: CHEM 311 with a grade of C- or better
+
+CHEM 315 - Biochemistry Laboratory
+The laboratory course introduces general protein biochemistry experiments including protein purification, enzyme kinetics, fluorescence, chromatography, electrophoresis and spectrophotometry. Laboratory, one 3-hour session per week (42 lab hours).
+
+Credits: 1
+Terms Offered: Spring
+Prerequisites: CHEM 311 with a grade of C- or better
+
+CHEM 322 - Inorganic Chemistry
+A detailed examination of covalent and ionic inorganic substances, Lewis acid-base concepts, thermodynamic aspects, coordination chemistry, chemistry of metals and nonmetals, inorganic aspects of aqueous and nonaqueous solvents.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: CHEM 221
+
+CHEM 324 - Inorganic Chemistry Laboratory
+Laboratory experiments provide an introduction to modern laboratory techniques used in inorganic chemistry. The work stresses synthetic techniques (including the handling of air-sensitive materials in glove boxes and on vacuum lines), the preparation of novel materials of an inorganic and bioinorganic nature, and the study of their chemical, physical, structural, and kinetic properties by modern instrumental techniques. Laboratory, one 3-hour session per week (42 lab hours). Students may take CHEM 322 either prior to enrollment or concurrently with the class.
+
+Credits: 1
+Terms Offered: Spring
+Prerequisites: CHEM 256, CHEM 322
+Corequisites: CHEM 322
+
+CHEM 326 - Communication in Chemistry and Biochemistry
+This course builds upon communication practices in chemistry and biochemistry that have been previously introduced. Skills such as searching the literature, using citation managers, reading primary literature, writing science effectively for different audiences preparing proposals and manuscripts, and presenting orally will be developed. This course is designed for both research active and research non-active students, and students can focus their classwork on individual communication goals including preparation of a research proposal, a literature review, a manuscript, or an American Chemical Society research report or general workplace communication skills. Differentiated instruction will be used to meet each student’s communication goals.
+
+Credits: 1
+Terms Offered: As Needed
+Prerequisites: CHEM 221 
+Corequisites: CHEM 490 or CHEM 490R
+
+CHEM 331 - Analytical Chemistry
+Lecture topics include statistics, sampling, chemical equilibrium, titrimetric procedures, spectroscopy, separations and electrochemistry as well as an introduction to modern analytical instrumentation.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: CHEM 126 and CHEM 128, or, CHEM 131 and CHEM 132 
+Corequisites: CHEM 331D and CHEM 332 
+
+CHEM 331D - Analytical Chemistry Discussion
+This is the discussion that accompanies CHEM 331.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Corequisites: CHEM 331 and CHEM 332
+
+CHEM 332 - Analytical Chemistry Laboratory
+Laboratory experiments apply the total analytical process to real samples, including sample collection, chemical workup, wet chemical and instrumental analysis. Methods of analysis include standard volumetric procedures, UV/VIS spectroscopy, atomic absorption, ion selective electrodes, gas chromatography-mass spectrometry, and HPLC, as well as standard methods from various official agencies. Extensive data analysis using spreadsheets. Laboratory, one 3-hour session per week (42 lab hours).
+
+Credits: 1
+Terms Offered: Fall, Spring
+Corequisites: CHEM 331 and CHEM 331D
+
+CHEM 335 - Neurochemistry and Disease
+In this course, students will explore how the biochemistry of the brain influences nervous system function, specifically in relationship to motor and cognitive processes. Students will initially be introduced to fundamental aspects of neuroscience and biochemistry in a traditional lecture format. After this introduction, students will explore the relationship between altered neurochemical activity and disease states using a case study approach. In the lab, students will be introduced to several neurochemistry techniques and will then be asked to use these tools to complete a novel neurochemistry research project. The CHEM 335L lab is required for neuroscience majors, but is optional for all other students taking the course. Cross-listed with BIOL 335 and NSCI 335. 
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent; or, CHEM 311 or NSCI 211 
+
+CHEM 335L - Neurochemistry and Disease Laboratory
+This is the laboratory that accompanies CHEM 335. It is required for neuroscience majors, but is optional for all other students taking the course. Cross-listed with BIOL 335L and NSCI 335L.
+
+Credits: 1
+Terms Offered: Spring
+Corequisites: CHEM 335 
+
+CHEM 343 - Physical Chemistry I
+The basic principles of physical chemistry are introduced with applications in the chemical and biological sciences. Underlying principles of thermodynamics, equilibrium, and kinetics are developed and applied to solutions, enzymes, spectroscopy, and macromolecules from macroscopic and statistical perspectives. Students may take PHYS 121 or ENGS 340 either prior to enrollment in or concurrently with the class.  While PHYS 121 is strongly encouraged, PHYS 105 may also be taken.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: CHEM 126 or CHEM 131, MATH 132, PHYS 121 or PHYS 105 or ENGS 340 
+Corequisites: CHEM 343D, PHYS 121 or PHYS 105​ or ENGS 340 
+
+CHEM 343D - Physical Chemistry I Discussion
+This is the discussion that accompanies CHEM 343.
+
+Credits: 0
+Terms Offered: Fall
+Corequisites: CHEM 343
+
+CHEM 344 - Physical Chemistry II
+The quantum description of matter is investigated by studying basic concepts of quantum mechanics, simple quantum models, atomic orbitals, molecular energy levels, spectroscopy, and chemical bonding. Students may take PHYS 122 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: CHEM 126 or CHEM 131, MATH 132, PHYS 122 
+Corequisites: CHEM 344D, PHYS 122 
+
+CHEM 344D - Physical Chemistry II Discussion
+This is the discussion that accompanies CHEM 344.
+
+Credits: 0
+Terms Offered: Spring
+Corequisites: CHEM 344
+
+CHEM 345 - Physical Chemistry Laboratory I
+Laboratory experiments provide an introduction to modern laboratory techniques used in physical chemistry. The work stresses thermochemistry, kinetics, transport phenomena, data and error analysis, vacuum techniques, the use of instrumentation, and technical report writing in obtaining, analyzing and presenting accurate data from chemical systems. Laboratory, one 3-hour session per week (42 lab hours). Students may take CHEM 343 either prior to enrollment in or concurrently with the class.
+
+Credits: 1
+Terms Offered: Fall
+Prerequisites: CHEM 343
+Corequisites: CHEM 343
+
+CHEM 346 - Physical Chemistry Laboratory II
+Molecular structure and dynamics of chemical systems are studied using Fourier transform infrared and ultra-violet spectroscopy. Spectral interpretation in terms of basic quantum mechanical models is emphasized. Laboratory, one 3-hour session per week (42 lab hours). Students may take CHEM 344 either prior to enrollment in or concurrently with the class.
+
+Credits: 1
+Terms Offered: Spring
+Prerequisites: CHEM 344
+Corequisites: CHEM 344
+
+CHEM 350 - Advanced Laboratory Techniques
+This course builds upon prior knowledge and skills in other core laboratory courses to utilize existing instrumentation or techniques in analysis and identification of chemical species and processes. In addition to in depth study of one or more of these techniques, course work will also include the reading of primary literature and laboratory work. Specific titles may include:
+Separations - This course will focus on advanced analytical separation techniques. The theory of separations, alongside practical instrumentation (including gas and liquid chromatography) and experimental design.
+
+Advanced NMR - Modern nuclear magnetic resonance (NMR) techniques will be studied in both theory and practical use. This will include multi-dimensional proton NMR, as well as heteroatom (such as carbon-13, fluorine-19, and/or other nuclei) spectroscopic methods.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CHEM 221 and CHEM 255; or, CHEM 331 and CHEM 332 
+
+CHEM 352 - Reactions, Mechanisms, and Synthesis
+This course builds upon prior knowledge to critically explore areas within reaction mechanisms, modern reaction development, and/or chemical synthesis. In addition to in depth study of one or more of these areas, course work will also include the reading of primary literature and scientific writing. Specific titles may include:
+Organic Reaction Mechanisms - This course will focus on the understanding and prediction of reaction mechanisms for organic transformations.
+
+Organometallics - This course will focus on the understanding and fundamental organometallic transformations, aspects of their relativity, and their use in catalytic cycles.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CHEM 231 
+
+CHEM 354 - Computational Chemistry
+These courses develop students’ skills and knowledge in using computational methods to solve chemical problems. Course work emphasizes hands-on learning and authentic research projects. Specific titles may include:
+Computational Chemistry - This course will focus on using various computational engines to study chemical structure, molecular orbitals, spectroscopic behavior, and transition states.
+
+Coding for Scientists - Students will learn the basics of coding such as data types, conditionals, functions, and arguments. They will apply their skills to address a current research problem in chemistry or a related discipline.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CHEM 221 and CHEM 255; or, CHEM 331 and CHEM 332 
+
+CHEM 356 - Structures and Materials
+This course builds upon prior knowledge to critically explore areas critical to molecular structure, including chemical bonding and molecular orbital theory. In addition to the in-depth study of one or more of these areas, course work will include the reading of primary literature and scientific writing. Specific titles may include:
+Statistical Mechanics - This course will focus on the probabilistic approach to equilibrium properties of chemical systems. The definition of macrostates as deriving from ensembles or microstates and the way these lead to mathematical models.
+
+Group Theory - This course will focus on the use of group theory, including point groups, characters and representations, to understand and predict molecular bonding and spectroscopic properties.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CHEM 231 
+
+CHEM 395 - Special Topics in Chemistry
+This course may be a lecture or laboratory on a topic in chemistry related to special interests of the faculty or to significant current developments in the field. The content of this course will build in a significant way on concepts introduced in the core courses required for the B.S. degree.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+CHEM 490 - Research in Chemistry
+This course provides chemistry majors an opportunity to do research in a field in which students and faculty have special interests. An appropriate report must be submitted to the department chairperson in order for credit to be awarded. Students should contact faculty or the department chairperson to arrange for research with a faculty member (84 lab hours).
+
+Credits: 0
+Terms Offered: Fall, Spring
+Prerequisites: Permission of instructor
+
+CHEM 490R - Research in Chemistry
+This course provides chemistry majors an opportunity to do research in a field in which students and faculty have special interests. An appropriate report must be submitted to the department chairperson in order for credit to be awarded. Students should contact faculty or the department chairperson to arrange for research with a faculty member (84 lab hours).
+
+Credits: 1-3
+Terms Offered: Fall, Spring
+
+CHEM 495 - Advanced Special Topics in Chemistry
+This course may be a lecture or laboratory on a topic in chemistry related to special interests of the faculty or to significant current developments in the field. The content of this course will build in a significant way on concepts introduced in the core courses required for the B.S. degree.
+
+Credits: 1-4
+Terms Offered: As Needed
+
+CHEM 499 - Internship in Chemistry
+This program provides chemistry training and skill development for the student. This is usually done off-campus and the student must work under the supervision of a qualified scientist. Written reports appropriate to the internship experience are required. Consultation with chemistry faculty internship supervisor about the internship process and completion of the Permission to Register for An Academic Internship form and/or the Academic Internship Registration form are required. Forms can be found on the Boerigter Center website.
+
+Credits: 1-2
+Terms Offered: Fall, Spring
+Prerequisites: Permission of instructor 

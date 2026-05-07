@@ -1,0 +1,198 @@
+{
+  "biology": {
+    "concentrations": {
+      "general": {
+        "display_name": "Biology, BA/BS",
+        "ba": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1770&returnto=336",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1771&returnto=336",
+        "aliases": ["biology", "bio"]
+      }
+    },
+    "default_aliases": ["biology", "bio"]
+  },
+  "chemistry": {
+    "concentrations": {
+      "general": {
+        "display_name": "Chemistry, BA/BS",
+        "ba": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1775&returnto=336",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1776&returnto=336",
+        "aliases": ["chemistry", "chem"]
+      },
+      "acs": {
+        "display_name": "Chemistry, ACS Certified BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1773&returnto=336",
+        "aliases": ["acs chemistry", "chem acs", "acs"]
+      },
+      "acs_biochemistry_emphasis": {
+        "display_name": "Chemistry, ACS Biochemistry Emphasis (BS)",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1774&returnto=336",
+        "aliases": ["biochem emphasis", "acs biochem", "chem biochem"]
+      }
+    },
+    "default_aliases": ["chemistry", "chem"]
+  },
+  "computer science": {
+    "concentrations": {
+      "general": {
+        "display_name": "Computer Science, BA/BS",
+        "ba": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1781&returnto=336",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1782&returnto=336",
+        "aliases": ["cs", "compsci", "computer science"]
+      }
+    },
+    "default_aliases": ["cs", "compsci"]
+  },
+  "engineering": {
+    "concentrations": {
+      "biochemical": {
+        "display_name": "Engineering, Biochemical Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1803&returnto=336",
+        "aliases": ["biochemical", "biochem"]
+      },
+      "biomedical/bioelectrical": {
+        "display_name": "Engineering, Biomedical/Bioelectrical Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1804&returnto=336",
+        "aliases": ["biomedical", "bioelectrical", "biomed", "bioelec"]
+      },
+      "biomedical/biomechanical": {
+        "display_name": "Engineering, Biomedical/Biomechanical Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1805&returnto=336",
+        "aliases": ["biomechanical", "biomech"]
+      },
+      "chemical": {
+        "display_name": "Engineering, Chemical Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1806&returnto=336",
+        "aliases": ["chemical", "chem eng"]
+      },
+      "civil": {
+        "display_name": "Engineering, Civil Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1807&returnto=336",
+        "aliases": ["civil"]
+      },
+      "computer": {
+        "display_name": "Engineering, Computer Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1808&returnto=336",
+        "aliases": ["computer", "comp eng"]
+      },
+      "electrical": {
+        "display_name": "Engineering, Electrical Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1809&returnto=336",
+        "aliases": ["electrical", "elec eng"]
+      },
+      "environmental": {
+        "display_name": "Engineering, Environmental Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1810&returnto=336",
+        "aliases": ["environmental", "enviro"]
+      },
+      "general": {
+        "display_name": "Engineering, General Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1812&returnto=336",
+        "aliases": ["general"]
+      },
+      "mechanical": {
+        "display_name": "Engineering, Mechanical Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1811&returnto=336",
+        "aliases": ["mechanical", "mech eng"]
+      },
+      "science": {
+        "display_name": "Engineering, Science Concentration, BS",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1813&returnto=336",
+        "aliases": ["engineering science", "eng science"]
+      }
+    },
+    "default_aliases": ["engineering", "eng", "engineer"]
+  },
+  "environmental science": {
+    "concentrations": {
+      "biology": {
+        "display_name": "Environmental Science, Biology Concentration (BS)",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1818&returnto=336",
+        "aliases": ["env bio", "environmental biology", "envs bio"]
+      },
+      "chemistry": {
+        "display_name": "Environmental Science, Chemistry Concentration (BS)",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1819&returnto=336",
+        "aliases": ["env chem", "environmental chemistry", "envs chem"]
+      },
+      "geology": {
+        "display_name": "Environmental Science, Geology Concentration (BS)",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1820&returnto=336",
+        "aliases": ["env geo", "environmental geology", "envs geo"]
+      }
+    },
+    "default_aliases": ["environmental science", "envs", "env sci"]
+  },
+  "environmental studies": {
+    "concentrations": {
+      "general": {
+        "display_name": "Environmental Studies (BA)",
+        "ba": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1925&returnto=336",
+        "aliases": ["environmental studies", "env studies", "envs studies", "environment & society", "sustainability studies"]
+      }
+    },
+    "default_aliases": ["environmental studies", "env studies", "envs studies", "environment & society", "sustainability studies"]
+  },
+  "mathematics": {
+    "concentrations": {
+      "general": {
+        "display_name": "Mathematics, BA/BS",
+        "ba": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1837&returnto=336",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1838&returnto=336",
+        "aliases": ["math", "mathematics", "pure math"]
+      },
+      "education": {
+        "display_name": "Mathematics Education, BA",
+        "ba": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1922&returnto=336",
+        "aliases": ["math ed", "math education", "teaching math"]
+      },
+      "statistics": {
+        "display_name": "Mathematics, Statistics Concentration, BA/BS",
+        "ba": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1891&returnto=336",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1839&returnto=336",
+        "aliases": ["statistics", "stats", "math stats"]
+      }
+    },
+    "default_aliases": ["math", "mathematics"]
+  },
+  "neuroscience": {
+    "concentrations": {
+      "general": {
+        "display_name": "Neuroscience (BA)",
+        "ba": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1849&returnto=336",
+        "aliases": ["neuroscience", "neuro"]
+      }
+    },
+    "default_aliases": ["neuroscience", "neuro"]
+  },
+  "nursing": {
+    "concentrations": {
+      "general": {
+        "display_name": "Nursing (BSN)",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1851&returnto=336",
+        "aliases": ["nursing", "bsn", "nurse"]
+      }
+    },
+    "default_aliases": ["nursing", "bsn"]
+  },
+  "physics": {
+    "concentrations": {
+      "general": {
+        "display_name": "Physics, BA/BS",
+        "ba": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1856&returnto=336",
+        "bs": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1857&returnto=336",
+        "aliases": ["physics", "phys"]
+      }
+    },
+    "default_aliases": ["physics", "phys"]
+  },
+  "psychology": {
+    "concentrations": {
+      "general": {
+        "display_name": "Psychology (BA)",
+        "ba": "https://catalog.hope.edu/preview_program.php?catoid=8&poid=1861&returnto=336",
+        "aliases": ["psychology", "psych"]
+      }
+    },
+    "default_aliases": ["psychology", "psych"]
+  }
+}

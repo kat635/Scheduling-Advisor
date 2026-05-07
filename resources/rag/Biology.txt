@@ -1,0 +1,551 @@
+BIOL 102A - Organisms and Environments Pre-Kindergarten through 3rd Grades
+Organisms and Environments Pre-K to 3rd Grade is a half-semester course designed for those seeking Pre-K - 3rd grade elementary certification. It will help satisfy the natural science laboratory general education requirements for elementary education teacher candidates. The course will cover content outlined in the Michigan K-12 Science Standards as well as the Michigan Department of Education (MDE) Standards for the Preparation of Teachers of Early Childhood (Pre-K) and Lower Elementary in an integrated lecture/lab, inquiry-based format. During the course, teacher candidates will come to understand basic processes that help shape the earth like weathering and erosion. Teacher candidates will explore structures, functions, and behaviors that help plants and animals survive and how these features affect the distribution of living things. Furthermore, teacher candidates will understand inheritance patterns and how variation leads to differential survival and diversity of life. Finally, candidates will begin to examine the impact humans have on the environment and how some of the effects might be mitigated.
+
+Credits: 2
+Terms Offered: Fall, Spring
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: Declared education major, EDUC 230 
+Corequisites: CHEM 102A 
+
+BIOL 102B - Organisms and Environments 3rd through 6th Grades
+Organisms and Environments 3rd through 6th Grades is a half-semester course designed for those seeking 3rd - 6th grade elementary certification. It will help satisfy the natural science laboratory general education requirements for elementary education teacher candidates. The course will cover content outlined in the Michigan K-12 Science Standards as well as the Michigan Department of Education (MDE) Standards for the Preparation of Teachers of Upper Elementary (3-6) in an integrated lecture/lab, inquiry-based format. During the course, teacher candidates will come to understand disciplinary core ideas about the dynamic earth and its role in shaping the distribution of living things across the planet. Furthermore, teacher candidates will understand levels of organization of living things, basic genetics, principles of ecology, and how organisms adapt to changing conditions via natural selection. Finally, candidates will investigate the potential impacts of humans on ecosystems and explore solutions to challenging problems related to human intervention.
+
+Credits: 2
+Terms Offered: Fall, Spring
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: Declared education major, BIOL 102A, EDUC 230
+Corequisites: CHEM 102B 
+
+BIOL 103 - Introduction to Cell Biology
+A study of the fundamentals of cell biology and genetics. Not open to students who have taken BIOL 105 and BIOL 106.
+
+Credits: 3
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: BIOL 103L
+
+BIOL 103L - Introduction to Cell Biology Laboratory
+This is the laboratory that accompanies BIOL 103 lecture.
+
+Credits: 1
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: BIOL 103 
+
+BIOL 105 - General Biology I
+This course includes an overview of ecology emphasizing the ways organisms interact with their physical and biological environment, and the study of animal and plant diversity, anatomy and physiology with an emphasis on structure-function relationships and homeostasis.
+
+Credits: 3
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: BIOL 107 and BIOL 107D
+
+BIOL 106 - General Biology II
+This course includes the study of cell biology, including cellular structure and function, metabolism, enzyme activity, and energetics, Mendelian and molecular genetics, including discussion and use of modern techniques as a means to answer biological questions, and evolutionary biology, including the relationships between the major taxa, and how the interaction of organisms with their environment drives the evolutionary process.
+
+Credits: 3
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: BIOL 108 and BIOL 108D
+
+BIOL 107 - General Biology Laboratory I
+Laboratory experiences designed to complement lecture material in BIOL 105. The labs are organized into research experience modules. In this semester, students investigate questions in ecology, animal and plant biology.
+
+Credits: 1
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: BIOL 105 and BIOL 107D
+
+BIOL 107D - General Biology Laboratory I Discussion
+This is the discussion that accompanies BIOL 107.
+
+Credits: 0
+Terms Offered: Fall
+Corequisites: BIOL 105 and BIOL 107 
+
+BIOL 108 - General Biology Laboratory II
+Laboratory experiences designed to complement lecture material in BIOL 106. The labs are organized into research experience modules. In this semester, students investigate questions in cell biology, molecular genetics and evolution.
+
+Credits: 1
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: BIOL 106 and BIOL 108D
+
+BIOL 108D - General Biology Laboratory II Discussion
+This is the discussion that accompanies BIOL 108.
+
+Credits: 0
+Terms Offered: Spring
+Corequisites: BIOL 106 and BIOL 108
+
+BIOL 123 - Day 1 Watershed Laboratory II
+This course is the continuation of CHEM 122. Students will address issues of water quality that have plagued Lake Macatawa for over a century. The research findings are essential for understanding the impact of Project Clarity, a community-wide effort to clean up the waters of Lake Macatawa in a sustainable way. Teams will use standard and cutting edge experimental techniques, including next generation DNA sequencing of the watershed bacterial communities.
+
+Credits: 1
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: CHEM 122 
+
+BIOL 195 - Studies in Biology
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-3
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+BIOL 207 - Phage Discovery and Genomics I
+This research-based laboratory course is the first part of a two-semester introductory biology laboratory sequence. The full-year course covers basic techniques in microbiology, molecular biology, genetics, evolutionary biology and computer-based bioinformatics analysis of viral genomes through the exploration of Mycobacteriophage diversity. In this first semester, students will focus on various wet laboratory skills in microbiology, molecular biology and genetics. Enrollment requires completion of a Day1 program application specific for this course.
+
+Credits: 2
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: Permission of instructor
+Corequisites: BIOL 105
+
+BIOL 208 - Phage Discovery and Genomics II
+This research-based laboratory course is the second part of a two-semester introductory biology laboratory sequence. The full-year course covers basic techniques in microbiology, molecular biology, genetics, evolutionary biology and computer-based bioinformatics analysis of viral genomes through the exploration of Mycobacteriophage diversity. In this second semester, students will focus on various topics in bioinformatics, comparative genomics, and evolutionary biology. Enrollment is by permission and requires completion of BIOL 207.
+
+Credits: 2
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: Permission of instructor, BIOL 207 
+Corequisites: BIOL 106 
+
+BIOL 221 - Human Physiology
+A study of the function and interactions of the various organ systems of the human body. Prior completion of BIOL 103, or BIOL 106 and BIOL 108, or the equivalent, is highly recommended prior to this course.
+
+Credits: 3
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: BIOL 221L
+
+BIOL 221L - Human Physiology Laboratory
+This is the laboratory that accompanies BIOL 221.
+
+Credits: 1
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: BIOL 221 
+
+BIOL 222 - Human Anatomy
+A course where the human body is studied from histological and gross anatomical perspectives. Laboratories require dissections, microscope work, and use of computer programs. Three lectures and one 3-hour laboratory period per week. Cross-listed with KIN 200.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: BIOL 222L
+
+BIOL 222L - Human Anatomy Laboratory
+This is the laboratory that accompanies Biol 222. One 1-hour laboratory session per week. Cross-listed with Kin 200L.
+
+Credits: 1
+Terms Offered: Fall, Spring, Summer
+Attributes: Natural Science with Lab (NSL)
+Corequisites: Biol 222
+
+BIOL 231 - Biology of Microorganisms
+A study of selected bacteria, viruses and parasites with an emphasis on host-microbe interactions and microorganisms implicated in human disease. Not open to students who have had an advanced microbiology course. Students may take CHEM 103 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: BIOL 103 or equivalent, CHEM 103
+Corequisites: BIOL 231L, CHEM 103
+
+BIOL 231L - Biology of Microorganisms Laboratory
+This is the laboratory that accompanies BIOL 231.
+
+Credits: 1
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: BIOL 231 
+
+BIOL 295 - Studies in Biology
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-3
+Terms Offered: As Needed
+
+BIOL 301 - General Microbiology
+This course covers the basic concepts and skills in microbiology. Students will learn: 1. the cell structure, metabolism and regulations, and genetics of microorganisms, mainly using bacteria as model organisms; 2. the growths and controls of microorganisms; 3. viruses and genomes; 4. evolution and diversity of microbial groups; 5. microbial ecology and environmental microbiology; 6. immunity and host defense mechanisms, 7. genetic engineering and biotechnology.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 301L 
+
+BIOL 301L - General Microbiology Laboratory
+This is the laboratory that accompanies BIOL 301. Students will learn the basic lab techniques of microbiology. Additional out-of-class hours may be required.
+
+Credits: 1
+Terms Offered: Fall
+Corequisites: BIOL 301
+
+BIOL 311 - Conservation Biology
+An advanced course that deals with the conservation and protection of organisms and their physical and biological environments at a species, population, community, ecosystem, and global level. Exploratory lens (e.g., indigenous, policy-based, etc) may vary. Course is lecture and lab based and involves the reading of peer-reviewed scientific literature.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 311L
+
+BIOL 311L - Conservation Biology Laboratory
+This is the laboratory that accompanies BIOL 311.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 311
+
+BIOL 312 - Plant and Animal Interactions
+A course that deals with the interactions between plants and animals at an advanced level, emphasizing recent developments and specialized problems. Topics covered will include coevolution, pollination, frugivory and seed dispersal, herbivory, carnivorous plants and agroecology. Format will include lecture, along with frequent reading and discussion of primary literature.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 312L
+
+BIOL 312L - Plant and Animal Interactions Laboratory
+This is the laboratory that accompanies BIOL 312.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 312
+
+BIOL 313 - Sensory Ecology
+Sensory systems are the gateways to all information that animals have about their environment. As such, they are under intense natural and sexual selection, and can themselves drive evolutionary divergence. This course focuses on these issues, building from a basis of understanding how sensory systems transduce and extract environmental information. The class will center jointly around lectures and discussion of relevant scientific literature as well as laboratory exercises to help students learn how research in sensory physiology and ecology is performed.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 313L
+
+BIOL 313L - Sensory Ecology Laboratory
+This is the laboratory that accompanies BIOL 313.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 313
+
+BIOL 314 - Ethnobotany
+An advanced course that deals with the ways in which plants and humans have interacted over time, emphasizing recent developments, specialized problems, and peer-reviewed literature. Areas of emphasis (e.g., traditional ecological knowledge, the biology of food, forensic botany, medicinal botany) as well as course format (lecture-lab, discussion) will vary.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 314L
+
+BIOL 314L - Ethnobotany Laboratory
+This is the laboratory that accompanies BIOL 314.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 314
+
+BIOL 315 - Principles of Ecology
+An advanced course that deals with the interactions between organisms and their physical and biological environments at a population, community, and ecosystem level. Course is lecture and lab based and involves the reading of peer-reviewed scientific literature.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 315L 
+
+BIOL 315L - Principles of Ecology Laboratory
+This is the laboratory that accompanies BIOL 315.
+
+Credits: 1
+Terms Offered: Fall, Spring
+Corequisites: BIOL 315
+
+BIOL 332 - Comparative Anatomy of Vertebrates
+A course that extensively studies the evolutionary adaptations of anatomy across several taxa of animals. The course is solely laboratory dissections of many aquatic and terrestrial vertebrates. An excellent preparatory for students interested in any career within the Health Professions or Life Sciences.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 332L
+
+BIOL 332L - Comparative Anatomy Vertebrate Laboratory
+This is the laboratory that accompanies BIOL 332.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 332
+
+BIOL 335 - Neurochemistry and Disease
+In this course, students will explore how the biochemistry of the brain influences nervous system function, specifically in relationship to motor and cognitive processes. Students will initially be introduced to fundamental aspects of neuroscience and biochemistry in a traditional lecture format. After this introduction, students will explore the relationship between altered neurochemical activity and disease states using a case study approach. In the lab, students will be introduced to several neurochemistry techniques and will then be asked to use these tools to complete a novel neurochemistry research project. The BIOL 335L laboratory is required for neuroscience majors, but is optional for all other students taking the course. Cross-listed with CHEM 335 and NSCI 335.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent; or, CHEM 311 or NSCI 211
+
+BIOL 335L - Neurochemistry and Disease Laboratory
+This is the laboratory that accompanies BIOL 335. It is required for neuroscience majors, but is optional for all other students taking the course. Cross-listed with CHEM 335L and NSCI 335L.
+
+Credits: 1
+Terms Offered: Spring
+Corequisites: BIOL 335 
+
+BIOL 340 - Advanced Topics in Plant Biology
+An in-depth study of specialized topics in botany such as plant anatomy, plant breeding systems, plant molecular systematics, and ecophysiology of plants.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 340L
+
+BIOL 340L - Advanced Topics in Plant Biology Laboratory
+This is the laboratory that accompanies BIOL 340.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 340
+
+BIOL 341 - Virology
+This course introduces the principles of virology including the molecular biology of viral replication, virus-host cell interactions, immune response to infection, pathogenesis, control strategies (i.e., vaccines), virus-based medical therapies, epidemiology of emerging viruses, and the history of pandemics.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 341L
+
+BIOL 341L - Virology Laboratory
+This laboratory, which accompanies BIOL 341, uses a model virus system and course-based research to explore virus-host interactions, and in the process, teach modern molecular virology laboratory techniques.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 341
+
+BIOL 343 - Vascular Plant Systematics
+A study of the biology, evolutionary relationships and identification of selected families of vascular plants, and the principles of plant classification. The laboratory will involve field work and concentrate on the local flora. Additional out-of-class hours are required.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 343L
+
+BIOL 343L - Vascular Plant Systematics Laboratory
+This is the laboratory that accompanies BIOL 343.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 343
+
+BIOL 348 - Advance Cell Biology
+An advance study of cell structure, function and regulation of eukaryotic cells. The goal of this course is for students to learn and understand cellular/molecular mechanisms that are essential in the maintenance of cellular homeostasis. The specific topics include cell membrane, cell organelles, cytoskeleton, extracellular matrix and cell cycle. The gene structure and function is also explored.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+
+BIOL 349 - Advanced Cell Biology Laboratory
+The laboratory course employs an investigative project approach and introduces students to the scientific literature, "research proposal" writing, and latest technologies used to investigate cellular function. The experiments focus on the cancer cell as a model and employ such techniques as cell culture, assays measuring cell proliferation and apoptosis, RNA isolation and microarray analysis, immunocytochemistry, and finally, protein analysis through gel electrophoresis and Western blotting. Students may take BIOL 348 either prior to enrollment in or concurrently with the class.
+
+Credits: 1
+Terms Offered: Spring
+Prerequisites: BIOL 348
+Corequisites: BIOL 348
+
+BIOL 355 - Developmental Biology
+A study of the processes involved in the development of animal embryos, including regeneration and metamorphosis. The course integrates the descriptive, comparative and molecular approaches to the study of development.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 355L
+
+BIOL 355L - Developmental Biology Laboratory
+This is the laboratory that accompanies BIOL 355.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 355
+
+BIOL 356 - Genetics
+A comprehensive overview of genetics from its classical beginnings, including Mendelian genetics, linkage, chromosomal aberrations and extranuclear inheritance to modern molecular genetics. After a thorough grounding, topical subjects are covered in the last part of the semester, and have included cancer genetics, genetics of behavior, and population genetics.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 357 
+
+BIOL 357 - Genetics Laboratory
+Designed to introduce the student to the experimental basis of lecture topics. Investigations include the purification and analysis of DNA, generation and sequencing of recombinant DNA molecules, and Drosophila and bacterial genetics.
+
+Credits: 1
+Terms Offered: Fall, Spring
+Corequisites: BIOL 356 
+
+BIOL 366 - Molecular Biology
+An advanced course which examines the role of gene structure, function, and regulation at the molecular level to explain biological processes. Topics include basic processes such as DNA replication, recombination, and regulation of gene expression, as well as an emphasis on experimental design and techniques. The laboratory component of the course uses a project approach to introduce experimental design and molecular biological methods as students clone and characterize a gene. BIOL 356 is highly recommended prior to this course.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent, CHEM 231 
+Corequisites: BIOL 366L
+
+BIOL 366L - Molecular Biology Laboratory
+This is the laboratory that accompanies BIOL 366.
+
+Credits: 1
+Terms Offered: Spring
+Corequisites: BIOL 366
+
+BIOL 370 - Animal Behavior
+An investigation-based study of vertebrate and invertebrate behavior from an evolutionary perspective. Topics include proximate behavioral mechanisms (genetic, developmental and neurological) and ultimate consequences (evolution, ecology and sociology). MATH 115 or equivalent highly recommended prior to this course.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 370L 
+
+BIOL 370L - Animal Behavior Laboratory
+This is the laboratory that accompanies BIOL 370.
+
+Credits: 1
+Terms Offered: Fall
+Corequisites: BIOL 370
+
+BIOL 374 - Biology of Insects
+The course is an introduction to the identification, structure, life cycle, ecology and behavior of insects. Field aspects will be stressed. Additional out-of-class hours required.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 374L
+
+BIOL 374L - Biology of Insects Laboratory
+This is the laboratory that accompanies BIOL 374.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 374
+
+BIOL 380 - Field Studies in Biology
+A concentrated study of a variety of organisms in their natural habitats. Normally requires field studies or camping trips as long as two to three weeks in duration. In addition study projects and/or papers will be expected. May be repeated for a maximum of 6 credits.
+
+Credits: 3
+Terms Offered: Summer
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 380L
+
+BIOL 380L - Field Studies in Biology Laboratory
+This is the laboratory that accompanies BIOL 380.
+
+Credits: 1
+Terms Offered: Summer
+Corequisites: BIOL 380
+
+BIOL 390 - Independent Study of Biology
+A special course to allow students to study an area of biology not included in the regular curriculum or an in-depth study of a selected biological topic.
+
+Credits: 1-3
+Terms Offered: Fall, Spring
+Prerequisites: Permission of instructor, BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+
+BIOL 395 - Studies in Biology
+This course may be a lecture or laboratory on a topic in biology related to special interests of the faculty or to significant current developments in the field.
+
+Credits: 1-3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+
+BIOL 395L - Studies in Biology Laboratory
+This is the laboratory that accompanies BIOL 395.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 395
+
+BIOL 421 - Evolutionary Biology
+A study of special topics concerning the process of evolution and its mechanisms involving both micro and macro evolution. Each year a different special topic is explored. Past examples include evolutionary molecular biology and speciation.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 421L
+
+BIOL 421L - Evolutionary Biology Laboratory
+This is the laboratory that accompanies BIOL 421.
+
+Credits: 1
+Terms Offered: Spring
+Corequisites: BIOL 421
+
+BIOL 422 - Invertebrate Zoology
+The biology of selected invertebrate animals will be studied with emphasis on their functional morphology, ecology and behavior. Three hours of lecture per week, plus additional out-of-class hours.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 422L
+
+BIOL 422L - Invertebrate Zoology Laboratory
+This is the laboratory that accompanies BIOL 422. Laboratory includes field studies with a weekend trip.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 422
+
+BIOL 432 - Vertebrate Zoology
+Vertebrate examples are used to investigate a broad range of biological topics including evolution, speciation, historical and modern zoogeography, energetics, behavior, ecology and conservation. Laboratory includes both laboratory exercises and field trips that focus on the taxonomy, external morphology, natural history and field identification of local vertebrates. Additional out-of-class hours required.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 432L
+
+BIOL 432L - Vertebrate Zoology Laboratory
+This is the laboratory that accompanies BIOL 432.
+
+Credits: 1
+Terms Offered: Spring
+Corequisites: BIOL 432
+
+BIOL 442 - Animal Physiology
+An in-depth examination of comparative aspects of animal physiology such as cardiovascular systems, renal physiology, endocrinology, immunology, or environmental physiology. Additional out-of-class hours required. BIOL 221 is highly recommended prior to this course.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: BIOL 442L 
+
+BIOL 442L - Animal Physiology Laboratory
+This is the laboratory that accompanies BIOL 442.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: BIOL 442
+
+BIOL 490 - Research in Biology
+This course is designed to give students majoring in biology a chance to do research in an area in which they have a special interest. Students are expected to attend weekly seminars. Requires formal application and permission of the instructor with whom the student will work. Cross-listed with BIOL 490R.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Prerequisites: Permission of instructor, BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+
+BIOL 490R - Research in Biology
+This course is designed to give students majoring in biology a chance to do research in an area in which they have a special interest. Students are expected to attend weekly seminars. Requires formal application and permission of the instructor with whom the student will work. Cross-listed with BIOL 490.
+
+Credits: 1-2
+Terms Offered: Fall, Spring
+
+BIOL 493 - Independent Study in Biology
+Course provides opportunity for a junior or senior biology major to engage in an independent study project in an area in which the student has special interest.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+BIOL 495 - Advanced Topics in Biology
+A special course, sometimes taught as a seminar, which deals with a specific area of biology at an advanced level. Past topics have included environmental genetic theory, the biology of sex, the heart and kidney, cancer biology, ecology of plant-animal interactions, and cholesterol biology.
+
+Credits: 1-3
+Terms Offered: Fall, Spring
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+
+BIOL 499 - Internship
+An opportunity to gain practical experience in the work place. Requires formal application and permission of the department chairperson.
+
+Credits: 1-6
+Terms Offered: Fall, Spring, Summer
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent

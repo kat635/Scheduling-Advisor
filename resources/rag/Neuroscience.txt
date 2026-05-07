@@ -1,0 +1,144 @@
+NSCI 195 - Studies in Neuroscience
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+NSCI 211 - Introduction to Neuroscience
+This interdisciplinary course covers basic information from biology, chemistry, psychology, and philosophy that is relevant for understanding the nervous system and its role in behavior. Topics include structure and function of neurons, brain anatomy, sensory and motor systems, and the neuroscience of motivation, emotion, sleep, memory, language, and consciousness.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: NSCI 211L
+
+NSCI 211L - Introduction to Neuroscience Laboratory
+This is the laboratory that accompanies NSCI 211. Laboratory projects expose students to research methods in neuroscience, including monitoring the activity of individual neurons and recording physiological responses from humans.
+
+Credits: 1
+Terms Offered: Fall, Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: NSCI 211 
+
+NSCI 295 - Studies in Neuroscience
+A topical lecture, seminar, or laboratory course designed to supplement the regular course offerings in neuroscience. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+
+NSCI 312 - Functional Neuroanatomy
+This course offers an in-depth exploration of the structure and function of the vertebrate nervous system. After a review of neuroanatomy principles and the organization of the central and peripheral nervous systems, students will explore the anatomical and functional bases of sensory systems, motor control, memory, reward, and emotion. This course will use clinical cases in order to emphasize how the fundamental neuroanatomy principles relate to human nervous system function in health and disease.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: Sophomore standing. NSCI 211; or, BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent
+Corequisites: NSCI 312L 
+
+NSCI 312L - Functional Neuroanatomy Laboratory
+This course complements NSCI 312 lecture and offers further exploration of the structure and function of the vertebrate nervous system. Students study neuroanatomy using dissections of fixed brain specimens and histology slides for light microscopy. Students also learn fundamental experimental techniques such as preparation of brain specimens for immunohistochemical analysis, light microscopy and confocal microscopy. Students enhance their understanding of the tridimensional nature of neuroanatomical structures by building neuroanatomical models.
+
+Credits: 1
+Terms Offered: Fall
+Prerequisites: Sophomore standing, NSCI 211 
+Corequisites: NSCI 312 
+
+NSCI 313 - Neurophysiology
+This course is focused on the neurophysiological function of the nervous system, ranging from cellular neurophysiology to the physiology of neural circuits and systems that underlie sensation, cognition, and behavior. The course will begin with a foundation in the core concepts of cellular neurophysiology, emphasizing the principles underlying resting membrane potential, action potentials, the physiology of voltage gated and synaptic ion channels, and synaptic integration and plasticity. The course will then explore the physiology of neural circuits and their relationship to behavior.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: Declared neuroscience major or minor, Sophomore standing, NSCI 211, NSCI 211L 
+Corequisites: NSCI 313L 
+
+NSCI 313L - Neurophysiology Lab
+This is the laboratory that accompanies NSCI 313.
+
+Credits: 1
+Terms Offered: Spring
+Prerequisites: Sophomore standing, NSCI 211, NSCI 211L 
+Corequisites: NSCI 313 
+
+NSCI 335 - Neurochemistry and Disease
+In this course, students will explore how the biochemistry of the brain influences nervous system function, specifically in relationship to motor and cognitive processes. Students will initially be introduced to fundamental aspects of neuroscience and biochemistry in a traditional lecture format. After this introduction, students will explore the relationship between altered neurochemical activity and disease states using a case study approach. In the lab, students will be introduced to several neurochemistry techniques and will then be asked to use these tools to complete a novel neurochemistry research project. The NSCI 335L laboratory is optional for all other students taking the course. Cross-listed with BIOL 335 and CHEM 335.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: BIOL 105 and BIOL 106, BIOL 107 or equivalent, BIOL 108 or equivalent; or, CHEM 311 or NSCI 211 
+
+NSCI 335L - Neurochemistry and Disease Laboratory
+This is the laboratory that accompanies NSCI 335. It is required for neuroscience majors, but is optional for all other students taking the course. Cross-listed with BIOL 335L and CHEM 335L.
+
+Credits: 1
+Terms Offered: Spring
+Corequisites: NSCI 335
+
+NSCI 390 - Independent Study in Neuroscience
+A special course to allow students to study an area of neuroscience not included in the regular curriculum or an in-depth study of a selected neuroscience topic.
+
+Credits: 1-3
+Terms Offered: Fall, Spring
+Prerequisites: NSCI 211
+
+NSCI 395 - Studies in Neuroscience
+A topical lecture, seminar, or laboratory course designed to supplement the regular course offerings in neuroscience. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: NSCI 211
+
+NSCI 395L - Studies in Neuroscience Laboratory
+This is the laboratory that accompanies NSCI 395.
+
+Credits: 1
+Terms Offered: As Needed
+Corequisites: NSCI 395
+
+NSCI 411 - Advanced Neuroscience Research I
+An interdisciplinary course in which neuroscience majors and minors work as a team to complete a novel neuroscience research project supervised by the instructor. Students will read and discuss primary research literature, write an independent research proposal, design and conduct a neuroscience research project, and write a formal research manuscript summarizing their research findings.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: Declared neuroscience major or minor, Senior standing, NSCI 211 
+Corequisites: NSCI 411L 
+
+NSCI 411L - Advanced Neuroscience Research I Laboratory
+This is the laboratory that accompanies NSCI 411.
+
+Credits: 1
+Terms Offered: Fall
+Corequisites: NSCI 411
+
+NSCI 490 - Research in Neuroscience
+This course is designed to give neuroscience students the opportunity to conduct research in an area in which they have a special interest, under the direct supervision of a neuroscience program faculty member. Requires approval from the instructor with whom the student will work. Cross-listed with NSCI 490R.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Prerequisites: Permission of instructor, NSCI 211 
+
+NSCI 490R - Research in Neuroscience
+This course is designed to give neuroscience students the opportunity to conduct research in an area in which they have a special interest, under the direct supervision of a neuroscience program faculty member. Requires approval from the instructor with whom the student will work. Cross-listed with NSCI 490.
+
+Credits: 1-4
+Terms Offered: Fall, Spring
+
+NSCI 493 - Independent Study in Neuroscience
+Course provides opportunity for a junior or senior neuroscience major to engage in an independent study project in an area in which the student has special interest.
+
+Credits: 1-3
+Terms Offered: As Needed
+Prerequisites: Permission of instructor, NSCI 211
+
+NSCI 495 - Advanced Studies in Neuroscience
+A special course, sometimes taught as a seminar, which deals with a specific area of neuroscience at an advanced level. May be repeated for credit under different topics.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of instructor, NSCI 211
+
+NSCI 499 - Internship in Neuroscience
+This program provides practical experience for students and is usually done off-campus. It requires formal application and permission of the department chairperson. The student will write a report or give an oral department seminar presentation following the internship experience.
+
+Credits: 1-4
+Terms Offered: Fall, Spring, Summer
+Prerequisites: Permission of program director, NSCI 211

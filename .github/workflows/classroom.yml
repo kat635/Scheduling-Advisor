@@ -1,0 +1,87 @@
+name: Autograding Tests
+'on':
+- push
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.13'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install -e .
+
+    - name: Starter tests
+      id: starter-tests
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Starter tests
+        setup-command: ''
+        command: pytest tests/test_starter.py tests/test_nodes.py -v
+        timeout: 120
+        max-score: 15
+
+    - name: Phase 1 tests
+      id: phase1-tests
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Phase 1 tests
+        setup-command: ''
+        command: pytest tests/test_phase1.py -v
+        timeout: 60
+        max-score: 20
+
+    - name: Phase 2 tests
+      id: phase2-tests
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Phase 2 tests
+        setup-command: ''
+        command: pytest tests/test_phase2.py -v
+        timeout: 60
+        max-score: 20
+
+    - name: Phase 3 tests
+      id: phase3-tests
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Phase 3 tests
+        setup-command: ''
+        command: pytest tests/test_phase3.py -v
+        timeout: 60
+        max-score: 30
+
+    - name: Documentation complete
+      id: documentation-complete
+      uses: classroom-resources/autograding-command-grader@v1
+      with:
+        test-name: Documentation complete
+        setup-command: ''
+        command: python tests/verify_submission.py
+        timeout: 10
+        max-score: 15
+
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        STARTER-TESTS_RESULTS: "${{steps.starter-tests.outputs.result}}"
+        PHASE1-TESTS_RESULTS: "${{steps.phase1-tests.outputs.result}}"
+        PHASE2-TESTS_RESULTS: "${{steps.phase2-tests.outputs.result}}"
+        PHASE3-TESTS_RESULTS: "${{steps.phase3-tests.outputs.result}}"
+        DOCUMENTATION-COMPLETE_RESULTS: "${{steps.documentation-complete.outputs.result}}"
+      with:
+        runners: starter-tests,phase1-tests,phase2-tests,phase3-tests,documentation-complete

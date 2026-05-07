@@ -1,0 +1,203 @@
+PHYS 080 - Seminar
+All students interested in physics and engineering are encouraged to attend departmental seminars. Registered students are required to attend at least 80% of the seminars presented. The purpose of the seminars is twofold. One is the presentation of fields of current interest and questions of concern for researchers so that students can learn the content of and approaches to research. The other is to provide students contemplating further study at the graduate level with opportunities to discuss with speakers the programs at their institutions. In this manner, students can make better informed decisions on the course of their further education.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Prerequisites: Junior standing
+
+PHYS 105 - College Physics I
+This is an algebra-based course which provides a rigorous examination of the following physical phenomena and systems: 1) mechanics (forces, kinematics of motion, conservation of energy and momentum, collisions, and rotational systems), 2) oscillating systems and springs and 3) selected topics from molecular physics and heat (physics of solids and fluids, thermal physics and thermodynamics).
+
+Credits: 3
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: MATH 130 or equivalent
+Corequisites: PHYS 107 or PHYS 141
+
+PHYS 106 - College Physics II
+A continuation of PHYS 105. This course is algebra-based with an accompanying laboratory. It provides a rigorous examination of the following physical phenomena and systems: 1) electricity and magnetism, 2) geometric optics, 3) physical optics and waves and 4) atomic and nuclear physics.
+
+Credits: 3
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: PHYS 105 
+Corequisites: PHYS 108 or PHYS 142 
+
+PHYS 107 - College Physics Laboratory I
+The laboratory is designed to accompany PHYS 105. Basic laboratory skills are developed. Students use modern instrumentation methods to explore and analyze scientific measurements. This laboratory is a great introduction to the use of computers in the collection and analysis of data. Students will be able to study quantitatively, and in detail, many of the mechanical systems which are presented in PHYS 105.
+
+Credits: 1
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: PHYS 105
+
+PHYS 108 - College Physics Laboratory II
+A continuation of PHYS 107. The laboratory accompanies PHYS 106. The topics of electricity and magnetism, electrical circuits, optics, radiation and quantum effects are explored. Physical phenomena are studied and measured at a more advanced level, including techniques currently employed in modern physics. A major goal of the course is to develop skills in the measurement of physical phenomena.
+
+Credits: 1
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: PHYS 107
+Corequisites: PHYS 106
+
+PHYS 121 - General Physics I
+The course is calculus-based and designed for students desiring professional science careers. It provides a rigorous examination of the following physical phenomena and systems: forces, conservation of momentum, energy (kinetic, potential, chemical, and thermal), fields, thermodynamics, and statistical mechanics. Students may take MATH 131 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: MATH 131 with a grade of C- or better 
+Corequisites: MATH 131, PHYS 141 
+
+PHYS 122 - General Physics II
+A continuation of PHYS 121. The course is calculus-based with an accompanying laboratory. It is designed for students desiring professional careers in science. The course provides a rigorous introduction to the following topics: 1) electricity and magnetism, 2) geometric optics, 3) physical optics and waves, 4) modern physics. Students may take MATH 132 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Prerequisites: PHYS 121 with a grade of C- or better, MATH 132
+Corequisites: MATH 132, PHYS 142 
+
+PHYS 141 - Physics Laboratory I
+The laboratory is designed to accompany PHYS 105 and PHYS 121. Basic laboratory skills are developed. The use of modern instrumentation in physical measurements is explored. Students gain experience in using computers to analyze scientific measurements. Topics covered include forces, conservation of momentum, conservation of energy, oscillation systems, and rotational motion. A major goal of the course is to develop skills in the measurements of physical phenomena.
+
+Credits: 1
+Terms Offered: Fall
+Attributes: Natural Science with Lab (NSL)
+Corequisites: PHYS 105 or PHYS 121 
+
+PHYS 142 - Physics Laboratory II
+A continuation of PHYS 141. This laboratory accompanies PHYS 106 and PHYS 122. Physical phenomena are studied and measured on a more advanced level. Topics in electrostatics, radioactivity, modern physics, optics, electricity and magnetism, resonance, and electrical circuits are explored. A major goal of the course is to continue to develop skills in the measurements of physical phenomena.
+
+Credits: 1
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: PHYS 106 or PHYS 122 
+
+PHYS 195 - Topics in Physics
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+PHYS 270 - Modern Physics
+A first course in the quantum physics of atoms, molecules, solids, nuclei, and particles. Topics include special relativity, the structure of the nucleus, the Schroedinger wave equation, one electron atoms, angular momentum, spectra, transition rates, and quantum statistics. Applications to atoms, molecules, nuclei, conductors, semiconductors, superconductors, and elementary particles will be discussed. Experiments as well as theory will be examined. Students may take MATH 243 either prior to enrollment in or concurrently with the class.
+
+Credits: 4
+Terms Offered: Fall
+Prerequisites: PHYS 122 with a grade of C- or better, MATH 132 with a grade of C- or better, MATH 243 
+Corequisites:  MATH 243 
+
+PHYS 280 - Introduction to Mathematical Methods in the Physical Sciences
+Mathematical methods applicable to physical systems are studied. These include effective use of MAPLE, modeling with ordinary differential equations, vector calculus, Fourier Analysis, and common differential equations. Special attention is given to physical examples from multiple areas to show the generality of the techniques. Students may take either prior to enrollment in or concurrently with the class. Students may take MATH 233 and MATH 243 either prior to enrollment in or concurrently with the class. One hour/week lecture and three hours/week of supervised laboratory work.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: PHYS 270, MATH 233 with a grade of C- or better, MATH 243 with a grade of C- or better 
+Corequisites: MATH 233, MATH 243  
+
+PHYS 281 - Intermediate Laboratory
+This course focuses on developing experimental skills. These include experiment planning, research, analysis, error propagation, writing, and presenting. A series of short exercises are done first to develop the background in these areas and then experiments are done where these skills must be correctly applied. Typical laboratory experiments will include the Cavendish experiment, index of refraction of a gas with an interferometer, and determining the ellipticity of a large outdoor courtyard. Students may take PHYS 280 either prior to enrollment in or concurrently with the class.
+
+Credits: 2
+Terms Offered: Spring
+Prerequisites: PHYS 122, PHYS 142, PHYS 280 
+Corequisites: PHYS 280
+
+PHYS 290 - Independent Studies
+With departmental approval freshmen or sophomores may engage in independent studies at a level appropriate to their ability and class standing, in order to enhance their understanding of physics. Students may enroll each semester.
+
+Credits: 1-3
+Terms Offered: Fall, Spring
+Prerequisites: Permission of instructor
+
+PHYS 295 - Studies in Physics
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+PHYS 342 - Electricity and Magnetism
+A course in classical electromagnetism with the development and application of Maxwell’s equations as the central focus. Topics include electromagnetic fields, boundary value problems, dielectric and magnetic materials, radiation, and energy and momentum of the electromagnetic field.
+
+Credits: 4
+Terms Offered: Spring, Even Years
+Prerequisites: PHYS 280 with a grade of C- or better, MATH 233 with a grade of C- or better, MATH 243 with a grade of C- or better
+
+PHYS 352 - Optics
+Topics covered concern both geometrical and physical optics. The approach involves matrix formulation, computer formulation, Fourier analysis as it relates to Fresnel and Frauenhofer diffraction, interference, polarization matrices and holography. The relevance of these topics to modern day optical information processing and physical devices is considered.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: PHYS 280 
+
+PHYS 361 - Analytical Mechanics
+This course covers Newtonian mechanics, linear and nonlinear oscillations, calculus of variations, Lagrangian and Hamiltonian dynamics, and motion in noninertial frames of reference. The course builds upon the topics covered in general physics and makes extensive use of the methods learned in PHYS 280. The course acquaints students with mathematical and computer techniques in solving complex problems. These more formal methods empower students with skills necessary to make the transition from introductory to advanced physics and engineering.
+
+Credits: 4
+Terms Offered: Fall, Odd Years
+Prerequisites: PHYS 280 with a grade of C- or better, MATH 233 with a grade of C- or better, MATH 243 with a grade of C- or better 
+
+PHYS 362 - Thermodynamics and Statistical Mechanics
+The prominent states of matter are examined from classical and quantum mechanical points of view. A thorough overview of thermodynamics and statistical mechanics is given. Nonidealities in gases are treated in order to examine cooling and phase transitions. Effects of Bose-Einstein and Fermi-Dirac statistics are detailed for gases, liquids and solids. Slightly degenerate perfect gases, electrons in metals and Bose-condensation, viewed as a first order phase transition, are discussed.
+
+Credits: 4
+Terms Offered: Fall, Even Years
+Prerequisites: PHYS 280 with a grade of C- or better, MATH 233 with a grade of C- or better, MATH 243 with a grade of C- or better 
+
+PHYS 372 - Quantum Theory
+A detailed study of the mathematical and physical foundations of quantum mechanics. Topics include the Schroedinger wave equation, one-dimensional potentials, operator methods in quantum mechanics, the Heisenberg representation of operators, the three-dimensional Schroedinger equation, angular momentum, the hydrogen and helium atoms, matrix methods in quantum mechanics, time independent and time dependent perturbation theory, radiation of atoms, and scattering theory.
+
+Credits: 4
+Terms Offered: Spring, Odd Years
+Prerequisites: PHYS 280 with a grade of C- or better, MATH 233 with a grade of C- or better, MATH 243 with a grade of C- or better
+
+PHYS 380 - Advanced Mathematical Methods in the Physical Sciences
+This is a continuation of PHYS 280. Additional mathematical methods, primarily for physics, are considered, including complex analysis, numerical methods, probability and statistics, additional special functions, and more partial differential equations.
+
+Credits: 2
+Terms Offered: As Needed
+Prerequisites: PHYS 280 
+
+PHYS 382 - Continuation Advanced Laboratory
+This laboratory builds on the skills learned in PHYS 281 and combines experiments from both classical and modern physics. Extensive use of the computer is made in the analysis of data from experiments. Detailed error analysis of each experiment is required. In any given semester the selected topics are drawn from experiments such as gamma detection, Millikan oil drop, alpha spectroscopy, accelerator operation, Cavendish, Rutherford scattering, semiconductors, saturated absorption, spectroscopy, and neutron activation. One hour of lecture/week and three hours/week of supervised laboratory. Required for physics majors and may be taken more than once for credit.
+
+Credits: 2
+Terms Offered: Fall
+Prerequisites: PHYS 281 
+
+PHYS 395 - Studies in Physics
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+PHYS 490 - Research in Physics
+With departmental approval, students may engage in independent studies at a level appropriate to their ability and class standing, in order to enhance their understanding of physics. Students may enroll in each semester. Cross-listed with PHYS 490R.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Prerequisites: Permission of Instructor
+
+PHYS 490R - Research in Physics
+With departmental approval, students may engage in independent studies at a level appropriate to their ability and class standing, in order to enhance their understanding of physics. Students may enroll in each semester. Cross-listed with PHYS 490.
+
+Credits: 1-2
+Terms Offered: Fall, Spring
+
+PHYS 495 - Advanced Studies in Physics
+A lecture or seminar at an advanced level offered in response to student and instructor interest. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+PHYS 499 - Internship
+The internship program provides an opportunity to gain practical experience in the work place, typically off campus. The student will have a qualified supervisor at the site of this experience as well as a faculty advisor. It provides physics training and skill development for the student. Written reports appropriate to the internship experience are required. Consultation and a formal application with permission of the physics faculty advisor are required. Once an internship host is secured, complete the internship registration forms on the Boerigter Center website.
+
+Credits: 1-3
+Terms Offered: As Needed
+Prerequisites: Permission of instructor

@@ -1,0 +1,223 @@
+CSCI 112 - EXPLORING COMPUTER SCIENCE
+This course explores the discipline of computer science by looking at computer science at many levels, from how the computer represents information digitally to how programs are constructed to take advantage of the capabilities of the machine. Students will be introduced to a variety of topics within the field of computer science, including data representation, computer architecture, operating systems and networks.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Attributes: Mathematics or Natural Science (MNS)
+
+CSCI 115 - INTRODUCTION TO PROGRAMMING WITH PYTHON
+This course will serve as an introduction to the techniques and practices of programming using the Python language, including working within an integrative development environment (IDE) to develop and debug programs. It will facilitate the development of a foundation for computer programming upon which students can build in subsequent computer science courses as well as courses in other disciplines which require the knowledge and application of computer programming. Students will learn to read and modify existing programs as well as write simple programs of their own. While the focus is on the Python language, the concepts and techniques are applicable to many programming languages. Students who have credit for CSCI 235 may not take this course.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Attributes: Mathematics or Natural Science (MNS)
+
+CSCI 125 -SOFTWARE DESIGN AND IMPLEMENTATION
+An introduction to the techniques and practices of software design and implementation, including top-down design, object-oriented principles, advanced programming concepts, and the use of software development tools. Students will gain substantial experience with the Java programming language.
+
+Credits: 4
+Terms Offered: Fall, Spring
+Attributes: Natural Science with Lab (NSL)
+
+CSCI 140 - SPREADSHEET FUNDAMENTALS
+This course introduces students to the computing skills needed in the completion of the business and accounting majors at Hope College and to become a successful computer user in a business career. Students learn become proficient users of spreadsheet processing in Microsoft Excel and gain file management skills. This course may not be counted toward a computer science major or minor.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Attributes: Mathematics or Natural Science (MNS)
+
+CSCI 150 - WEB DESIGN AND IMPLEMENTATION
+Students in this course will learn about the processes used to design and implement web sites that are both functional and aesthetically pleasing. This includes an overview of the user centered development process, including task analysis, user analysis prototyping and usability testing. Several aspects of how to make a site visually attractive will be covered as well. Students will learn the fundamental technologies and tools needed to build a significant web site. A large number of interrelated technologies make up the web, including the Hypertext Transport Protocol, the Hypertext Markup Language, and Cascading Stylesheets. Students will gain a significant amount of experience using these technologies.
+
+Credits: 3
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: CSCI 150L
+
+CSCI 150L - WEB DESIGN AND IMPLEMENTATION LABORATORY
+This is the laboratory that accompanies CSCI 150.
+
+Credits: 1
+Terms Offered: Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: CSCI 150 
+
+CSCI 192 - Introduction to Databases and SQL
+Organized storage of data in a manner that facilitates easy and efficient retrieval of the data, access to data, and the ability to extract meaningful information from that data are some of the fundamental currencies of the 21st century. Students who can access, process, and analyze data will be well positioned for success in a wide variety of careers after graduation. In this introductory course, students will learn how to use the Structured Query Language (SQL) to store and access data in the relational database model. Transactional data such as purchase records and inventory data, and students’ personal and educational data are housed in relational databases. Students who successfully complete this course will be well equipped to efficiently store and access data to support well informed decision-making efforts. Students cannot count both this course and CSCI 392 toward a computer science major.
+
+Credits: 3
+Terms Offered: As Needed
+
+CSCI 195 - Studies in Computer Science
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-3
+Terms Offered: As Needed
+
+CSCI 235 - Data Structures and Software Design
+An introduction to the fundamental data structures of computer science, the design methodologies of software and the basic algorithms for these. Data structures such as stacks, queues, binary trees and priority queues will be included. Software design and development methods such as object oriented design, design patterns and basic algorithm analysis will also be covered. Projects utilizing these data structures and design methods will be completed. Emphasis will be placed on the partnership between algorithms and data structures.
+
+Credits: 4
+Terms Offered: Fall, Spring
+Prerequisites: CSCI 125 with a grade of C- or better
+
+CSCI 245 - Programming Language Paradigms
+This course provides an introduction to several different programming language paradigms and their approaches to problem solving. This includes a system level language utilizing memory allocation and pointers, a scripting language and a functional language. Students will develop programs in these languages.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: CSCI 125 with a grade of C- or better
+
+CSCI 255 - Introduction to Algorithms
+An introduction to the design and analysis of algorithms. This course builds on the data structures topics from CSCI 235 by exploring efficient ways of using them to solve problems. Algorithm analysis topics include best, worst, and average case analysis of iterative and recursive algorithms; asymptotic notation; and solving recurrence relations. Algorithm design techniques include brute force, decrease-and-conquer, divide-and-conquer, greedy, dynamic programming, and space/time tradeoff.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: CSCI 235 with a grade of C- or better, MATH 160 with a grade of C- or better
+
+CSCI 265 - Introduction to Computer Organization and Architecture
+This course provides an introduction to the organization of computer hardware and the architecture of a computer’s various hardware components. The course will examine hardware from the bottom up, examining gates, circuits, memory and arithmetic/logic unit organization and microprocessor architecture. The course covers the Boolean algebra needed for digital logic design. It also covers assembly language programming.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: CSCI 112 with a grade of C- or better, CSCI 235 with a grade of C- or better
+
+CSCI 270 - Mastering Git
+This course helps students become effective users of the Git version control system, deepening their understanding of how Git works and how to use it most effectively as part of a team software development process.
+
+Credits: 1
+Terms Offered: Spring
+Prerequisites: CSCI 235 with a grade of C- or better, or CSCI 245 with a grade of C- or better
+
+CSCI 295 - Studies in Computer Science
+A course offered in response to student interest and need. Deals with topics in computer science that are not included in regular courses.
+
+Credits: 1-3
+Terms Offered: As Needed
+
+CSCI 321 - Applications Programming
+A course in state-of-the-art programming practices. This will include a study of design patterns, and current development tools and techniques. Students work together in teams to design, implement and test substantial applications. Best practices in the development process will be emphasized.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CSCI 112 or equivalent with a grade of C- or better, CSCI 235 with a grade of C- or better
+
+CSCI 336 - Computer and Network Security
+This course provides an introduction to computer and network security by examining security issues, policies, and preventative measures. Topics include threats to networks and operating systems, system software vulnerability, network intrusion, and various types of malware, including viruses and worms. Each vulnerability is accompanied by practices to prevent attack.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CSCI 112 with a grade of C- or better, CSCI 235 with a grade of C- or better, CSCI 245 with a grade of C- or better
+
+CSCI 342 - Computer Graphics
+An introduction to the concepts, techniques, algorithms, and data structures used in 2D and 3D computer graphics. Topics include transformations, clipping, windowing, perspective, hidden lines and surfaces, color, shading, and ray tracing.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CSCI 112 with a grade of C- or better, CSCI 235 with a grade of C- or better
+
+CSCI 354 - Operating Systems
+This course provides an overview of operating systems, including operating system functions and support functions for operating systems. Students will gain hands-on experience with the Unix operating system. Students may take CSCI 265 either prior to enrollment in or concurrently with the course.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CSCI 112 with a grade of C- or better, CSCI 235 with a grade of C- or better, CSCI 245 with a grade of C- or better, CSCI 265 with a grade of C- or better
+Corequisites: CSCI 265
+
+CSCI 361 - Programming Language Design and Implementation
+This course provides a study of design and implementation considerations for imperative, object-oriented, functional and declarative programming languages. Students will learn these concepts through hands-on projects building interpreters and compilers for representative languages. Topics include representation of objects and classes, implementation of variable bindings and function calls, pattern matching of arguments, and virtual machines.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CSCI 112 with a grade of C- or better, CSCI 235 with a grade of C- or better, CSCI 245 with a grade of C- or better
+
+CSCI 376 - Computer Networking
+This course provides a study of computer networking architecture and protocols, using the TCP/IP protocol suite as our primary example. We will study application-level protocols such as electronic mail, remote login, and file transfer. We will learn about network management and interconnecting heterogeneous networks. We will study different types of transmission media and media access protocols. Students will gain experience writing client-server applications and network analysis programs.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CSCI 112 with a grade of C- or better, CSCI 235 with a grade of C- or better, CSCI 245 with a grade of C- or better
+
+CSCI 385 - Advanced Data Structures and Algorithms
+This course presents some of the classical algorithm design and analysis techniques. These include an in-depth study of brute force, divide-and-conquer, dynamic programming, and greedy algorithms, as well as an introduction to more advanced techniques such as backtracking, branch-and-bound, iterative improvement, and approximation algorithms. Techniques for parallel algorithms will also be discussed, including divide-and-conquer parallelism, maps, and reductions.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CSCI 112 with a grade of C- or better, CSCI 255 with a grade of C- or better
+
+CSCI 392 - Database Systems
+This course examines database architecture by examining application design and looking at external, conceptual, and internal levels of databases. Topics include the development of queries through query languages; the design and layout of a database; the design and implementation of front-ends; the relational model; protection issues including recovery, concurrency, security, and integrity; distributed database concepts; optimization strategies; and storage structures and access methods. Students cannot count both this course and CSCI 192 toward a computer science major.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CSCI 112 with a grade of C- or better, CSCI 235 with a grade of C- or better
+
+CSCI 395 - Studies in Computer Science
+A course offered in response to student interest and need. Deals with topics in computer science that are not included in regular courses.
+
+Credits: 1-3
+Terms Offered: As Needed
+
+CSCI 470 - Languages and Machines
+This course examines the theoretical foundations of computer science. It studies the relationship between finite-state machines and various language models. Computability theory is also studied.
+
+Credits: 3
+Terms Offered: As Needed
+Prerequisites: CSCI 112 with a grade of C- or better, CSCI 255 with a grade of C- or better
+
+CSCI 481 - Senior Capstone Project I
+Each student will complete a major software or research project, either individually or as a part of a team. Ethical aspects of computer science will be discussed. This course is required of all computer science majors.
+
+Credits: 2
+Terms Offered: Fall
+Prerequisites: Senior standing, CSCI 112 with a grade of C- or better, CSCI 235 with a grade of C- or better
+Corequisites: CSCI 481L
+
+CSCI 481L - Senior Capstone Project I Laboratory
+This is the laboratory that accompanies CSCI 481.
+
+Credits: 1
+Terms Offered: Fall
+Corequisites: CSCI 481
+
+CSCI 482 - Senior Capstone Project II
+Each student will complete a major software or research project, either individually or as a part of a team. Ethical aspects of computer science will be discussed. This course is required of all computer science majors.
+
+Credits: 1
+Terms Offered: Spring
+Prerequisites: CSCI 481 with a grade of C- or better
+Corequisites: CSCI 482L
+
+CSCI 482L - Senior Capstone Project II Laboratory
+This is the laboratory that accompanies CSCI 482.
+
+Credits: 1
+Terms Offered: Spring
+Corequisites: CSCI 482
+
+CSCI 490 - Research in Computer Science
+Independent study or research project carried out in some area of advanced computer science or in the application of the computer to another discipline. This project will be carried out under the supervision of one or more designated staff members.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Prerequisites: Permission of instructor
+
+CSCI 490R - Research in Computer Science
+Independent study or research project carried out in some area of advanced computer science or in the application of the computer to another discipline. This project will be carried out under the supervision of one or more designated staff members.
+
+Credits: 1-3
+Terms Offered: Fall, Spring
+
+CSCI 491 - Internship in Computer Science
+This program offers the student an opportunity to work on a project or an experience approved by the department as being of significance in computer science. This is usually done off campus and the student will have a qualified supervisor at the site of this experience in addition to a faculty advisor. This course is normally open only to senior computer science majors.
+
+Credits: 1-3
+Terms Offered: Fall, Spring, Summer
+Prerequisites: Permission of department internship coordinator
+
+CSCI 495 - Advanced Studies in Computer Science
+A course designated for junior and senior computer science majors which covers an advanced topic in computer science. This course may be repeated for additional credit with a different topic.
+
+Credits: 1-3
+Terms Offered: As Needed
+Prerequisites: Permission of instructor

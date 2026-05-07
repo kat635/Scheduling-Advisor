@@ -1,0 +1,367 @@
+ENGS 070 - Preparation for the Engineering Profession I
+This seminar is intended for second year engineering students. The focus of the course will be on preparation for obtaining an internship and personal conduct in a professional environment. Topics will include resume and cover letter preparation, interview skills, networking, engineering ethics, cultural competencies in a global workplace, and other topics in engineering practice. Seminars will also provide students the opportunity to discuss state of the art engineering advances with speakers actively engaged in the field.
+
+Credits: 0
+Terms Offered: Fall
+
+ENGS 080 - Preparation for the Engineering Profession I
+This seminar is intended for third year engineering students. This course builds on the content of Engs 070 to further prepare students to enter the engineering profession or graduate school. Topics will include leadership, project management, graduate school and alternate career paths, engineering ethics, cultural competencies for success, and other topics in engineering practice. Seminars will also provide students additional opportunities to discuss state of the art engineering advances with speakers actively engaged in the field.
+
+Credits: 0
+Terms Offered: Spring
+Prerequisites: Junior standing, ENGS 070 
+
+ENGS 100 - Introduction to Engineering
+This course introduces students to the basic principles of engineering and the various disciplines that constitute the field. Major engineering accomplishments are studied from historical, political, artistic and economic viewpoints. Students work in teams to solve engineering design problems and undertake laboratory investigations. Foundations of engineering science including force equilibrium, concepts of stress and strain, Ohm’s Law, and Kirchhoff’s Voltage and Current Laws are studied.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: ENGS 100L
+
+ENGS 100L - Introduction to Engineering Laboratory
+This is the laboratory that accompanies ENGS 100.
+
+Credits:1
+Terms Offered: Fall, Spring
+Attributes: Natural Science with Lab (NSL)
+Corequisites: ENGS 100
+
+ENGS 122 - Introduction to Engineering Materials
+An introduction to the science and engineering of materials with an emphasis on application to engineering design. Topics will include structure-processing-property relationships in materials, atomic bonding, crystal structure, phase diagrams, control of deformation in metals, a survey of common engineering materials and their properties, and materials selection for engineering design.
+
+Credits: 2
+Terms Offered: Spring
+Prerequisites: ENGS 100 or CHEM 125 or CHEM 131 or MATH 131, all with a grade of C- or better
+
+ENGS 150 - Conservation Principles
+An introduction to chemical engineering calculations, emphasizing the conservation of mass and energy. Systems studied will include batch and continuous processes, and separation processes. Concepts of steady-state and transient balances will be used in process analysis.
+
+Credits: 2
+Terms Offered: Spring
+Prerequisites: ENGS 100 or CHEM 125 or CHEM 131 or MATH 131, all with a grade of C- or better
+
+ENGS 170 - Computer Aided Design
+An introduction to computer aided design. Students will learn to use a solid modeling design system for the purpose of creating their own designs. Design methods and techniques will be studied through development of increasingly complex devices. Each student is expected to design a device of their own choosing.
+
+Credits: 0.5
+Terms Offered: Spring
+Prerequisites: ENGS 100 or MATH 131, both with a grade of C- or better
+Corequisites: ENGS 170L 
+
+ENGS 170L - Computer Aided Design Laboratory
+This is the laboratory that accompanies ENGS 170.
+
+Credits: 0.5
+Terms Offered: Spring
+Corequisites: ENGS 170
+
+ENGS 195 - Studies in Engineering
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+
+ENGS 210 - Engineering Computing
+This course introduces students to the fundamental computer programming concepts, principles, and methods necessary for solving engineering problems encountered in engineering courses, industry, and research. Students are exposed to basic problem solving and programming techniques, fundamental algorithms and data structures, and use of programming logic in solving engineering problems. Students are expected to complete assignments in a collaborative learning environment.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: ENGS 100 with a grade of C- or better
+
+ENGS 220 - Statics
+This course covers the response of rigid objects in equilibrium to applied forces. Topics include: vector description of forces and moments, free body diagrams, frictional forces, centroids, area moments of inertia, and distributed loads. These topics are applied to the equilibrium analysis of trusses, beams, frames, and machines in two and three dimensions. Students may take MATH 233 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: ENGS 100 or PHYS 121 with a grade of C- or better, MATH 132 with a grade of C- or better, MATH 233 with a grade of C- or better
+Corequisites: MATH 233  
+
+ENGS 222 - Mechanics of Materials
+An introduction to the fundamentals of mechanics of deformable bodies. Topics include analysis of the stresses and deformations in structures including axial loading of bars, torsion of circular rods, bending of beams, thin-walled pressure vessels, and problems with combined loadings. Additional topics consist of stress and strain transformations and buckling and elastic stability of structures.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: ENGS 220 with a grade of C- or better
+Corequisites: ENGS 222L
+
+ENGS 222L - Mechanics of Materials Laboratory
+This course will introduce students to fundamental concepts in mechanical testing and metallurgy. Students will learn the basic components of a computerized data acquisition system and how these systems are used in mechanical testing. Students will also gain experience using an Instron testing machine to determine basic mechanical properties of a range of materials, including metals, woods, composites, and elastomers. The metallurgy component will include sample preparation for viewing with an optical microscope, heat treating metals, and Rockwell hardness testing.
+
+Credits: 1
+Terms Offered: Spring
+Prerequisites: ENGS 220 with a grade of C- or better
+Corequisites: ENGS 222
+
+ENGS 241 - Circuit Analysis and Applications
+This course provides an introduction to analysis and design of DC and AC circuits including time domain and sinusoidal steady-state analysis of RLC circuits. Diodes are introduced and utilized in nonlinear circuit applications. Transistors are studied for applications as amplifiers and switches. Operational amplifiers and circuit applications are introduced and analyzed.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: MATH 131 with a grade of C- or better
+Corequisites: ENGS 241L
+
+ENGS 241L - Circuit Analysis and Applications Laboratory
+Students will have the opportunity to apply methods and test out the material learned in ENGS 241. Composition of formal technical laboratory reports will be introduced and practiced. Students may take ENGS 241 either prior to enrollment in or concurrently with the class.
+
+Credits: 1
+Terms Offered: Fall, Spring
+Prerequisites: ENGS 241 with a grade of C- or better
+Corequisites: ENGS 241 
+
+ENGS 242 - Electronic Devices and Design
+The course examines in detail the design and analysis of analog and digital circuits. Analog discrete-circuits and integrated circuits include bipolar junction transistor and metal-oxide semiconductor field-effect transistor amplifiers, operational amplifiers, and active filters. Logic circuit design is presented and digital circuits are analyzed.
+
+Credits: 3
+Terms Offered: Spring, Even Years
+Prerequisites: ENGS 241 with a grade of C- or better
+Corequisites: ENGS 242L
+
+ENGS 242L - Electronic Devices and Design Laboratory
+This is the laboratory that accompanies ENGS 242.
+
+Credits: 1
+Terms Offered: Spring, Even Years
+Corequisites: ENGS 242
+
+ENGS 250 - Process Calculations
+Continuation of ENGS 150. An introduction to chemical engineering calculations, emphasizing the conservation of mass and energy. Systems studied will include batch and continuous processes, complex processes with recycle, processes in which chemical reactions take place, and separation processes. Concepts of steady-state and transient balances will be used in process analysis.
+
+Credits: 2
+Terms Offered: Spring
+Prerequisites: ENGS 150 with a grade of C- or better
+
+ENGS 290 - Independent Studies
+With departmental approval, freshmen or sophomores may engage in independent studies at a level appropriate to their ability and class standing, in order to enhance their understanding of engineering. Students may enroll each semester.
+
+Credits: 1-3
+Terms Offered: As Needed
+Prerequisites: Permission of instructor
+
+ENGS 295 - Studies in Engineering
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+
+ENGS 320 - Mechanical Dynamics
+This course covers the non-equilibrium response of objects to applied forces in the context of engineering systems, structures, and mechanisms. Students will analyze particle motion in one, two, and three dimensions, including one-dimensional vibrations. Building on these topics, students will investigate special cases of particle motion with constraints. Additional topics will include circular and general planar motion of rigid objects, kinematics with time-varying basis vectors, and the mechanics of 2D mechanisms. Students will learn numerical techniques to solve differential equations governing the dynamic response of objects and will practice interpreting the resulting numerical data. This course will prepare students to study topics such as advanced machine kinematics and biomechanics.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: ENGS 220 with a grade of C- or better, MATH 243 with a grade of C- or better, PHYS 121 with a grade of C- or better
+
+ENGS 322 - Logic Circuit Design
+The course addresses switching theory and digital logic devices. Topics covered include: Boolean algebra, algebraic simplification, Karnaugh maps, Quine-McCluskey method, multi-level networks, combinational and sequential network design, flip-flops, and counters.
+
+Credits: 3
+Terms Offered: Spring, Odd Years
+Prerequisites: ENGS 241 with a grade of C- or better
+
+ENGS 326 - Embedded Systems
+This course introduces the student to the fundamental concepts and skills necessary to understand and use embedded systems. Topics include: digital electronics, computer architecture, programming, and microcontroller interfaces. Students build and program small computing systems that demonstrate the principles on which all information processing devices are based.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: ENGS 210 with a grade of C- or better, ENGS 241 with a grade of C- or better
+
+ENGS 331 - Dynamic Systems
+Introduction to the mathematical modeling, analysis, and control of mechanical, electrical, hydraulic and thermal systems. Derivation of governing state (differential) equations. Analysis of the free and forced response of systems by direct analysis and computer simulation. Introduction to the design of feedback control systems including analyzing stability and characterizing system behavior.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: MATH 243 with a grade of C- or better
+Corequisites: ENGS 331L
+
+ENGS 331L - Dynamic Systems Laboratory
+A laboratory to accompany ENGS 331. The laboratory investigates the dynamic properties of systems of first and second order mechanical systems. Both linear and rotary systems are investigated. Systems with multiple masses and springs are studied. Controllers are developed and applied to some of the systems.
+
+Credits: 1
+Terms Offered: Fall
+Prerequisites: ENGS 210 with a grade of C- or better, MATH 243 with a grade of C- or better
+Corequisites: ENGS 331
+
+ENGS 332 - Control Systems
+Design of linear feedback control for dynamic systems. Topics include stability analysis, root locus compensation and design, frequency response techniques, state space and digital controls. The mathematical software MATLAB is used extensively to analyze and simulate control systems.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: ENGS 331 with a grade of C- or better
+
+ENGS 340 - Applied Thermodynamics
+Thermodynamics is the study of energy and its conversion among various forms, particularly heat and work. Laws of thermodynamics are presented in the context of mass and energy conservation using properties such as internal energy, enthalpy, and entropy. These concepts are then applied to a variety of processes including cyclic processes used for power generation and refrigeration.
+
+Credits: 2
+Terms Offered: Fall
+Prerequisites: ENGS 150 with a grade of C- or better, MATH 131 with a grade of C- or better
+
+ENGS 344 - Mechanical Vibrations
+This course covers free and forced response of single and multiple degree of freedom lumped mass systems and continuous systems with an emphasis on developing mathematical models of physical systems. Topics include viscously damped mechanical systems, systems with rotating imbalances, directly and seismically forced structures, eigenvalue problems, accelerometers, and vibration of continuous systems, such as, beams and rods. Analytical and numerical methods for solving vibration problems are covered including solutions using MatLab.
+
+Credits: 3
+Terms Offered: Fall, Even Years
+Prerequisites: ENGS 220 with a grade of C- or better, MATH 243 with a grade of C- or better
+
+ENGS 346 - Fluid Mechanics
+The study of fluid mechanics is essential in analyzing any physical system involving liquids and gasses. The properties of a fluid and the concepts of fluid statics, the integral and differential analyses of fluid motion, and incompressible flow are presented. Applications of these concepts to various engineering situations, such as propulsion systems, aerodynamics, and piping systems, are examined.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: ENGS 250 or ENGS 340 with a grade of C- or better, MATH 243 with a grade of C- or better
+
+ENGS 348 - Heat Transfer
+This course introduces the fundamental concepts of heat transfer. The three modes of heat transfer are addressed: conduction, convection, radiation. Both steady state and time varying situations are considered. The energy balance is applied extensively, and physical and mathematical principles underlying the concepts of heat transfer are presented. Rectangular, cylindrical and spherical coordinate systems are used in the analysis. Students may take MATH 233 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Spring, Summer
+Prerequisites: ENGS 250 or ENGS 340 with a grade of C- or better, MATH 233 with a grade of C- or better, MATH 243 with a grade of C- or better
+Corequisites: MATH 233 
+
+ENGS 351 - Signal Analysis and Communications
+This course will introduce students to the basics of signal modulation and radio frequency analysis and design. The approach is tailored to a careful development of the mathematical principles upon which such systems are based. A wide variety of current communication systems will be presented. The emphasis in this course is the design and analysis of Amplitude Modulation (AM), Frequency (angle) Modulation (FM), and Pulse Width Modulation (PWM), and understanding the differences between these types of modulations. The students will also be introduced to band-pass filters that are extensively used in signal demodulation.
+
+Credits: 3
+Terms Offered: Spring, Odd Years
+Prerequisites: ENGS 331 with a grade of C- or better
+
+ENGS 355 - Structural Analysis
+This course covers the analysis of determinate and indeterminate structures using various techniques. Topics include influence lines, moment-area theorems, conjugate beam methods, analyses of deflections of beams, trusses, and frames, and an introduction to matrix methods in structures.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: ENGS 222 with a grade of C- or better
+
+ENGS 360 - Geotechnical Engineering
+This course examines the fundamental topics of geotechnical engineering. Topics include soil classification methods, soil compaction, flow of water in soils, compressibility and consolidation, settlement, shear strength and failure, and applications to foundations. ENGS 222 may be taken either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Spring, Odd Years
+Prerequisites: ENGS 222 with a grade of C- or better
+Corequisites: ENGS 222 
+
+ENGS 364 - Steel Structures
+This course examines the design of steel members and connections and their use in buildings and bridges. The course uses relevant design specifications and codes to design tension and compression members, beams, columns, beam-columns, and connections.
+
+Credits: 3
+Terms Offered: Fall, Even Years
+Prerequisites: ENGS 222 with a grade of C- or better
+
+ENGS 365 - Reinforced Concrete
+This course examines the design of reinforced concrete members and their use in buildings and bridges. The course uses relevant design specifications and codes to analyze the flexural and shear strength of beams, one-way slabs, and columns. Topics also include examining the interaction between reinforcing steel and plain concrete.
+
+Credits: 3
+Terms Offered: Spring, Even Years
+Prerequisites: ENGS 222 with a grade of C- or better
+
+ENGS 371 - Chemical Reaction Engineering
+Determination and application of reaction rate variables, stoichiometry, equilibrium, and kinetics to batch and continuous reactor types. Design calculations for reactors including temperature, fluid flow and heat transfer considerations. Analysis of multiple reactions, chain reactions, biological reactions, and catalytic reactions.
+
+Credits: 3
+Terms Offered: Fall, Odd Years
+Prerequisites: ENGS 250 with a grade of C- or better, Junior standing
+
+ENGS 375 - Phase Equilibrium and Separations I
+Study of the concepts of thermodynamic phase equilibrium and their application to large-scale separation processes used in industrial practice. Topics studied will include vapor-liquid and liquid-liquid equilibrium, nonideal solution behavior, single and multiple equilibrium stage calculations, distillation, absorption and extraction, binary and multicomponent systems, and equipment design considerations.
+
+Credits: 4
+Terms Offered: Fall, Even Years
+Prerequisites: ENGS 250 with a grade of C- or better, Junior standing
+
+ENGS 376 - Advanced Thermodynamics and Separations II
+Continuation of study of the concepts of thermodynamic phase equilibrium and their application to large-scale separation processes used in industrial practice. Topics studied will include vapor-liquid and liquid-liquid equilibrium, nonideal gas behavior, diffusion and mass transfer, rate-based continuous contact, distillation, absorption and extraction, binary and multicomponent systems, other separation processes, and equipment design considerations.
+
+Credits: 3
+Terms Offered: Spring, Odd Years
+Prerequisites: ENGS 375 with a grade of C- or better
+
+ENGS 380 - Biomedical Instrumentation
+This course introduces students to the techniques for acquisition and processing of biological signals. Example topics include electromyography (EMG), electroencephalography (EEG), electrocardiography (ECG), joint angles, biofeedback, gait analysis and motor control. During the last third of the semester, a novel research project is proposed and carried out, culminating in a final paper modeled after scientific articles.
+
+Credits: 1
+Terms Offered: Fall, Odd Years
+Prerequisites: ENGS 210 with a grade of C- or better
+Corequisites: ENGS 380L
+
+ENGS 380L - Biomedical Instrumentation Laboratory
+This is the laboratory that accompanies ENGS 380.
+
+Credits: 1
+Terms Offered: Fall, Odd Years
+Corequisites: ENGS 380
+
+ENGS 381 - Biomechanical Systems
+This course combines anatomical knowledge with engineering principles to mathematically model human movement. Kinetics and kinematics of human movement are covered as well as the basics of biomaterials. OpenSim, a freely available software package, is used to explore kinematics of the upper and lower limb.
+
+Credits: 2
+Terms Offered: Spring, Odd Years
+Prerequisites: BIOL 222 or KIN 200 with a grade of C- or better
+
+ENGS 382 - Bioelectrical Systems
+This course combines physiological knowledge of the nervous system with engineering principles to teach mathematical modeling of bioelectrical systems. Passive and active membrane properties are covered as well as derivation and use of the cable equation. Simulations on neural systems are performed using Matlab. Familiarity with Matlab is highly recommended prior to this course.
+
+Credits: 2
+Terms Offered: Spring, Even Years
+Prerequisites: ENGS 210 with a grade of C- or better; ENGS 241 or PHYS 122 with a grade of C- or better; BIOL 221 or NSCI 211 with a grade of C- or better
+
+ENGS 385 - Rehabilitation Engineering
+This course exposes students to a variety of neurological and developmental disorders. The effects of the disease/injury, current treatments and engineering needs are explored both by lecture and observation at external sites. Examples of topics include cerebral palsy, spinal cord injury, gait analysis, prosthetics, traumatic brain injury, and stroke. Students are also introduced to necessary considerations when performing research with human subjects such as the Institutional Review Board and Food and Drug Administration requirements.
+
+Credits: 3
+Terms Offered: Fall, Even Years
+Prerequisites: Declared engineering major or minor, junior standing
+
+ENGS 395 - Advanced Topics in Engineering
+A course offered in response to student and instructor interest. Topics are not generally covered in the regular course listings. Course may be taken multiple times if topics are different.
+
+Credits: 1-4
+Terms Offered: As Needed
+
+ENGS 451 - Introduction to Engineering Design
+Engineers create products, systems, and processes to solve problems and meet social needs. This course introduces students to the art and science of engineering design. Methods and characteristics of the design process appropriate to product design, to system design, or to process design are studied. Exercises are carried out focusing on ethics in the workplace. Students learn oral and written communication skills needed in engineering design and carry out individual product, system, or process design projects focusing on the development of creativity, independent thinking, and the ability to overcome unexpected problems.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: Varies by section
+
+ENGS 452 - Engineering Design
+Engineering design problems are usually solved by teams working in an industrial environment. In this course students work in teams to solve an engineering design problem. The scope of activity extends from problem definition and development of requirements, through construction of a working prototype. Other course work includes: basic techniques of engineering project management, a study of how the engineering design process is conducted within a typical industrial company or technical organization, building and working in an engineering design team, and development and refinement of communication skills needed in engineering design. Additionally, basic materials manufacturing processes for polymers, metals, and composite materials will be discussed.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: ENGS 451 with a grade of C- or better, Junior standing
+
+ENGS 490 - Research in Engineering
+This course provides engineering majors an opportunity to do research in a field in which students and faculty have special interests. An appropriate report must be submitted to the supervising faculty in order for credit to be awarded. Students should contact faculty or the department chairperson to arrange for research with a faculty member. Cross-listed with ENGS 490R.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Prerequisites: Permission of instructor
+
+ENGS 490R - Research in Engineering
+With departmental approval, juniors or seniors may engage in independent studies at a level appropriate to their ability and class standing, in order to enhance their understanding of engineering. Students may enroll in each semester.
+
+Credits: 1-3
+Terms Offered: Fall, Spring
+
+ENGS 495 - Studies in Engineering
+An advanced topic of engineering will be investigated in detail. The choice of the topic will vary from year to year to provide junior and senior students with the opportunity to study a field outside of the normally prescribed curriculum. Recent course offerings include microcontroller electronics.
+
+Credits: 1-4
+Terms Offered: As Needed
+
+ENGS 499 - Internship in Engineering
+This program provides engineering training and skill development for the student. This is usually done off-campus and the student must work under the supervision of a qualified engineer. A written report appropriate to the internship experience is required. Consultation with the engineering department chair about the internship process and completion of the appropriate forms is required prior to registering. Forms can be found on the Boerigter Center website.
+
+Credits: 1-4
+Terms Offered: Fall, Spring, Summer
+Prerequisites: Permission of chairperson
+
+ENGS 501 - Internship in Engineering II
+
+Print (opens a new window)
+ENGS 501 - Internship in Engineering II
+This program provides engineering experience for students and is to be performed off-campus under the supervision of a qualified engineer. It is expected that the participating student will engage in an internship opportunity with increasing responsibility over the position held for their ENGS 499 course or that the new position will be in a different engineering field than their prior position. A written report or oral department seminar presentation appropriate to the internship experience are required.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Permission of chairperson, ENGS 499 with a grade of C- or better

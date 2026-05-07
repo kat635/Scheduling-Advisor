@@ -1,0 +1,11 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+
+website:
+  title: "College Scheduling Advisor"
+
+format:
+  html:
+    theme: flatly

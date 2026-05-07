@@ -1,0 +1,233 @@
+NURS 195 - Studies in Nursing
+A special theory, seminar, or practicum course in a specific study in nursing.
+
+Credits: 1-4
+Terms Offered: As Needed
+
+NURS 210 - Introduction to Professional Nursing
+This course introduces professional nursing within the context of the Christian faith. The course content includes nursing theory, critical thinking, professional nursing roles, community-based nursing, nursing process and holistic nursing care for individuals, families, groups and communities across cultures. Open to non-nursing majors by permission of the chairperson.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major or permission of chairperson
+
+NURS 232 - Nursing Skills Laboratory
+This course will develop introductory healthcare and professional nursing psychomotor skills through laboratory practice. Skills will be examined with a focus on the provision of introductory evidence-based care to individuals across the lifespan and across cultures. This course is a combination of theory and applied psychomotor skills in the laboratory. Theory, one hour per week: Laboratory three hours per week and three hours per week of practice/independent study. Students may take KIN 200 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, KIN 200 
+Corequisites: KIN 200 
+
+NURS 255 - Health Assessment
+This course presents the process of health assessment for individuals, families, groups, and communities. Physical, psychological, social, spiritual, and cultural assessment skills and techniques are developed, focusing on lifespan application within the context of the Christian faith. This course is a combination of theory and applied experiences in the laboratory and community. Theory, one hour per week; Laboratory/Community, three hours per week. BIOL 221, KIN 200, and PSY 100 may be taken either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major or permission of chairperson, BIOL 221 with a grade of C or better, KIN 200 with a grade of C or better, PSY 100 with a grade of C or better
+Corequisites: BIOL 221, KIN 200, PSY 100 
+
+NURS 260 - Pharmacology
+This course provides a study of medication and their interactions with individuals across the lifespan and across cultures. A focus will be placed on roles of the professional nurse and other health professionals in using a problem solving process for the promotion of optimal health. Open to non-nursing majors by permission of the chairperson. BIOL 103, BIOL 221, BIOL 231, CHEM 103 or equivalent, and KIN 200 may be taken either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Spring, Summer
+Prerequisites: Declared nursing major or permission of chairperson, BIOL 103 or equivalent with a grade of C or better, BIOL 221 with a grade of C or better, BIOL 231 with a grade of C or better, CHEM 103 or equivalent with a grade of C or better, KIN 200 with a grade of C or better
+Corequisites: BIOL 103 or equivalent, BIOL 221, BIOL 231, CHEM 103 or equivalent, KIN 200
+
+NURS 295 - Studies in Nursing
+A special theory, seminar, or practicum course in a specific study in nursing.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Declared nursing major, permission of chairperson
+
+NURS 310 - Nursing Care Across the Lifespan I
+This course will explore topics common within professional nursing practice including lab/diagnostic testing, genetics, care of patients with chronic illnesses, interprofessional collaboration, group process and family theories. Topics will be examined with a focus on the provision of care for individuals across the lifespan and across cultures. This course will analyze the professional nursing roles performed in the provision of evidence-based care within the context of the Christian faith. Students may take NURS 232, NURS 320, KIN 208 and PSY 230 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: Declared nursing major, NURS 210 with a grade of C or better, NURS 232 with a grade of C or better, NURS 255 with a grade of C or better, NURS 260 with a grade of C or better, NURS 320 with a grade of C or better, KIN 208 with a grade of C or better, PSY 230 with a grade of C or better, SOC 101 with a grade of C or better
+Corequisites: NURS 232, NURS 320, KIN 208, PSY 230 
+
+NURS 315 - Nursing Care Across the Lifespan II
+This course will explore topics common within professional nursing practice including parental nutrition and intravenous solutions, blood product administration, hospice and end of life care, organ donation and transplant, and advanced nursing care of patients in intensive care settings. Topics will be examined with a focus on the provision of care for individuals across the lifespan and across cultures. This course will analyze the professional nursing roles performed in the provision of evidence-based care within the context of the Christian faith. Completion of one theory and practicum course is required prior to this course.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: Declared nursing major, NURS 310 with a grade of C or better
+
+NURS 320 - Pathophysiology
+A study of the physiologic dysfunction in disease processes across the lifespan and across cultures. Etiology, predisposing/risk factors, pathogenesis and clinical manifestations will be discussed in relation to alterations in health. Open to non-nursing majors by permission of the chairperson.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: Declared nursing major, BIOL 103 or equivalent with a grade of C or better, BIOL 221 with a grade of C or better, BIOL 231 with a grade of C or better, CHEM 103 or equivalent with a grade of C or better, KIN 200 with a grade of C or better
+
+NURS 325 - Psychiatric Mental Health Nursing Theory
+This course provides an opportunity to integrate concepts of evidence-based psychiatric mental health nursing care across the lifespan and across cultures. Emphasis will be placed on utilizing a variety of nursing roles in the provision of care to promote or restore optimal mental health. This course is a combination of theory and practicum experiences. This course meets both first and last half of each semester. Theory, 14 hours. Students may take NURS 232 and NURS 310 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, NURS 232 with a grade of C or better, NURS 310  with a grade of C or better
+Corequisites: NURS 232, NURS 325P, NURS 310 
+
+NURS 325P - Psychiatric Mental Health Nursing Practicum
+This is the practicum that accompanies NURS 325. This course meets both first and last half of each semester. 84 hours per rotation for a half semester.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Corequisites: NURS 325
+
+NURS 335 - Maternity and Women’s Health Nursing Theory
+This course provides an opportunity to integrate concepts of evidence-based maternity and women’s health nursing care for the woman from menarche through post-menopause, including care of the perioperative patient. Emphasis will be placed on utilizing a variety of nursing roles in the provision of care to promote or restore optimal health in the child-bearing family across cultures. This course meets both first and last half of each semester. Theory, 14 hours. Students may take NURS 232 and NURS 310 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, NURS 232 with a grade of C or better, NURS 310 with a grade of C or better
+Corequisites: NURS 232, NURS 310, NURS 335P 
+
+NURS 335P - Maternity and Women’s Health Nursing Practicum
+This is the practicum that accompanies NURS 335. This course meets both first and last half of each semester. 84 hours per rotation for a half semester.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Corequisites: NURS 335
+
+NURS 345 - Pediatric Nursing Theory
+This course provides an opportunity to integrate concepts of evidence-based pediatric nursing care for the neonate through the adolescent, across cultures. Emphasis will be placed on utilizing a variety of nursing roles in the provision of care to promote or restore optimal health. This course meets both first and last half of each semester. Theory, 14 hours. NURS 310 and NURS 320 may be taken either prior to enrollment in or concurrently with the class. Completion of two theory and practicum courses is required prior to this course.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, NURS 310 with a grade of C or better, NURS 320 with a grade of C or better
+Corequisites: NURS 310, NURS 320, NURS 345P 
+
+NURS 345P - Pediatric Nursing Practicum
+This is the practicum that accompanies NURS 345. This course meets both first and last half of each semester. 84 hours per rotation for a half semester.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Corequisites: NURS 345
+
+NURS 365 - Adult Nursing Theory
+This course provides an opportunity to integrate concepts of evidence-based, adult nursing care across cultures. Emphasis will be placed on utilizing a variety of nursing roles in the provision of care to promote or restore optimal health. This course meets both first and last half of each semester. Theory, 14 hours. Completion of two theory and practicum courses is required prior to this course.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, NURS 310 with a grade of C or better, NURS 320 with a grade of C or better
+Corequisites: NURS 365P 
+
+NURS 365P - Adult Nursing Practicum
+This is the practicum that accompanies NURS 365. This course meets both first and last half of each semester. Practicum, 84 hours per rotation for a half semester.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Corequisites: NURS 365
+
+NURS 380 - Nursing Research Methods
+A study of the nursing research process, with a focus on its integral relationship to nursing theory and practice. The professional nursing roles of critically evaluating, utilizing, and participating in nursing research for recipients of care across the lifespan and across cultures will be analyzed. Completion of one theory and practicum course is required prior to this course.
+
+Credits: 3
+Terms Offered: Spring
+Prerequisites: Declared nursing major, NURS 310 with a grade of C or better, NURS 320 with a grade of C or better, ENGL 113 with a grade of C or better, MATH 115 with a grade of C or better
+
+NURS 385 - Gerontological Nursing Theory
+This course provides an opportunity to integrate concepts of evidence-based gerontological nursing care across cultures. Emphasis will be placed on utilizing a variety of nursing roles in the provision of care to promote or restore optimal health. This course meets both first and last half of each semester. Theory, 14 hours. Students may take NURS 310 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, NURS 232 with a grade of C or better, NURS 310 with a grade of C or better
+Corequisites: NURS 310, NURS 385P 
+
+NURS 385P - Gerontological Nursing Practicum
+This is the practicum that accompanies NURS 385. This course meets both first and last half of each semester. Practicum, 84 hours per rotation for a half semester.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Corequisites: NURS 385
+
+NURS 390 - Enhancing Self-Care and Well-Being for Nursing Students
+This elective course will focus on enhancing the self-care practices and well-being of nursing students. The course will introduce students to self-care theory and the dimensions of self-care including physical, intellectual, social, emotional, spiritual, vocational, financial, and environmental self-care. Students will explore key concepts for each self-care dimension expanding their understanding of self-care and actively participating in self-care practices during and outside of class. Students will journal throughout the semester to reflect on their learning and self-care practices. Students will write a research paper examining the evidence for one self-care practice. Throughout the course, students will work on creating a self-care plan unique to their individual self-care goals and needs and present the plan at the end of the semester. Completion of one theory and practicum course is required prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: Declared nursing major, Junior or senior standing, NURS 210 with a grade of C or better
+
+NURS 395 - Studies in Nursing
+A special theory, seminar, or practicum course in a specific study in nursing.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Declared nursing major, permission of chairperson
+
+NURS 418 - Nursing Research Practicum
+Practical experience with the nursing research process through collaborative participation in ongoing nursing research. Practicum, three hours per week. One credit required for nursing major. Additional credits optional with permission of the chair. Course can be repeated for additional credit with permission of the chairperson. Completion of two theory and practicum courses is required prior to this course.
+
+Credits: 1
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, NURS 380 with a grade of C or better
+
+NURS 420 - Population Health Nursing Theory
+This course provides an opportunity to evaluate concepts of evidence-based and population-based community health care across cultures. An emphasis will be placed on utilizing a variety of nursing roles to improve the health of a community, with a priority on health promotion, disease prevention, and health protection. This course meets both first and last half of each semester. Theory, 14 hours. Completion of two theory and practicum courses is required prior to this course. Students may take NURS 315 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, NURS 315 with a grade of C or better
+Corequisites: NURS 315, NURS 420P
+
+NURS 420P - Population Health Nursing Practicum
+This is the practicum that accompanies NURS 420. This course meets both first and last half of each semester. Practicum, 84 hours per rotation for a half semester.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Corequisites: NURS 420
+
+NURS 470 - Clinical Judgment in Nursing
+This course provides a comprehensive evaluation of clinical judgment in nursing and analyzes advanced concepts of caring for the complex, high acuity adult patient across cultures and lifespan in a variety of healthcare settings. Emphasis will be placed on exploring the provision of evidenced-based nursing care for adults with multisystem dysfunction to promote or restore optimal health. An emphasis will also be placed on the critical evaluation of specialty content areas, with a focus on the integration of critical thinking skills necessary for providing evidence-based care to patients. This course also includes in-depth preparation for the National Council Licensure Examination for Registered Nurses (NCLEX-RN). Students must reach a benchmarked score on an NCLEX-RN practice exam (4 hours in length) or complete remediation work as part of this course. Students may take NURS 481 and NURS 488 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, NURS 481 with a grade of C or better, NURS 488 with a grade of C or better
+Corequisites: NURS 481, NURS 488 
+
+NURS 481 - Nursing Management and Transitions
+This course provides an in-depth examination of issues essential to nursing leadership and management roles and professional nursing practice. An emphasis will be placed on integration of critical thinking skills and management skills necessary for providing evidence-based care for patients across the lifespan and across cultures in a variety of health care settings. This course will provide an opportunity to evaluate post graduate professional opportunities for graduate nursing education and advanced nurse roles. The course will focus on evaluating the professional nurse roles of research team member, utilizer of research, educator, advanced care provider, collaborator, designer of care, manager/leader, advocate for patients, member and advocate of the nursing profession, and life-long learner. Completion of three theory and practicum courses is required prior to this course.
+
+Credits: 3
+Terms Offered: Fall
+Prerequisites: Declared nursing major
+
+NURS 488 - Nursing Internship
+This internship, supervised by the Department of Nursing, is done in cooperation with a health care agency. Students will select an area of clinical interest to apply previously acquired knowledge and to develop competencies and skills necessary for the roles of the professional nurse in the provision of evidence-based care. The student will have a minimum of 120 hours of clinical experience while being mentored by a professional nurse. This half-semester course meets both first half and last half of each semester. Students may take NURS 470 and NURS 481 either prior to enrollment in or concurrently with the class.
+
+Credits: 3
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, NURS 470 with a grade of C or better, NURS 481 with a grade of C or better
+Corequisites: NURS 470, NURS 481  
+
+NURS 490 - Research in Nursing
+This course is designed to give students majoring in nursing a chance to do research in an area in which students and faculty have a special interest. Students are expected to attend weekly seminars and/or submit an appropriate report at the end of the semester. Requires formal application and permission of the instructor with whom the student will work. Cross-listed with NURS 490R.
+
+Credits: 0
+Terms Offered: Fall, Spring
+Prerequisites: Declared nursing major, permission of instructor
+
+NURS 490R - Research in Nursing
+This course is designed to give students majoring in nursing a chance to do research in an area in which students and faculty have a special interest. Students are expected to attend weekly seminars and/or submit an appropriate report at the end of the semester. Requires formal application and permission of the instructor with whom the student will work. Cross-listed with NURS 490.
+
+Credits: 1-2
+Terms Offered: Fall, Spring
+
+NURS 493 - Independent Study in Nursing
+This course provides an opportunity for in-depth study in an area of special interest in nursing. Students are expected to attend weekly seminars and/or submit an appropriate report at the end of the semester. Requires formal application and permission of the instructor with whom the student will work.
+
+Credits: 1-3
+Terms Offered: As Needed
+Prerequisites: Declared nursing major, permission of instructor
+
+NURS 495 - Advanced Studies in Nursing
+This advanced studies seminar course provides an opportunity to evaluate options for graduate nursing education and advanced nurse roles. The course will focus on evaluating the professional nurse roles of research team member, utilizer of research, educator, advanced care provider, collaborator, designer of care, manager/leader, advocate for patients, member and advocate of the nursing profession, and life-long learner. Completion of two theory and practicum courses is required prior to this course.
+
+Credits: 1-4
+Terms Offered: As Needed
+Prerequisites: Declared nursing major, permission of instructor
