@@ -61,3 +61,7 @@ To run it in the CLI:
 ```bash
 # Interactive multi-turn chat
 python -m ai_in_loop.cli chat
+```
+
+## Dependency Rules
+Do NOT upgrade dependencies without testing the full app flow.
